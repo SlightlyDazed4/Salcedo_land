@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 21:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2024-12-16 20:32:38 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-16 20:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-16 21:20:54 +0000"
     },
     "done": true
   },
@@ -669,6 +681,12 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 21:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-16 20:56:49 +0000"
@@ -816,6 +834,12 @@
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-16 20:29:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-16 21:22:04 +0000"
     },
     "done": true
   },
@@ -1137,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-16 21:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-16 20:56:49 +0000"
@@ -1158,6 +1188,12 @@
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 20:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 21:20:16 +0000"
     },
     "done": true
   },
@@ -1344,6 +1380,12 @@
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2024-12-16 20:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 21:20:54 +0000"
     },
     "done": true
   },
@@ -1647,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 21:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 20:38:20 +0000"
@@ -1688,13 +1736,21 @@
       "minecraft:snowy_slopes": "2024-12-16 20:00:51 +0000",
       "minecraft:deep_ocean": "2024-12-16 20:40:55 +0000",
       "minecraft:cherry_grove": "2024-12-16 20:10:01 +0000",
+      "minecraft:birch_forest": "2024-12-16 21:20:44 +0000",
       "minecraft:stony_shore": "2024-12-16 20:19:46 +0000",
       "minecraft:forest": "2024-12-16 20:10:08 +0000",
       "minecraft:ocean": "2024-12-16 20:20:26 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-16 21:23:36 +0000",
       "minecraft:savanna": "2024-12-16 19:58:35 +0000",
       "minecraft:plains": "2024-12-16 20:00:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 21:20:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -1717,6 +1773,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2024-12-16 20:32:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-16 21:21:25 +0000"
     },
     "done": true
   },
@@ -1776,8 +1838,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-16 21:20:01 +0000",
       "bread": "2024-12-16 20:07:16 +0000",
-      "salmon": "2024-12-16 20:29:35 +0000"
+      "salmon": "2024-12-16 20:29:35 +0000",
+      "cooked_chicken": "2024-12-16 21:19:15 +0000"
     },
     "done": false
   },
