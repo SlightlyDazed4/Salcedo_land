@@ -2790,3 +2790,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [16Dec2024 20:25:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [A Seedy Place]
 [16Dec2024 20:25:14.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> si
 [16Dec2024 20:25:25.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> hay un barco
+[16Dec2024 20:25:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> -2041 1789
+[16Dec2024 20:25:50.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> si
+[16Dec2024 20:25:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> go nomas
+[16Dec2024 20:26:07.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 20:26:07.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 20:26:35.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [You Are A Pirate]
+[16Dec2024 20:27:08.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['May'/142, l='ServerLevel[world]', x=-2130.52, y=151.00, z=-1861.32] died, message: 'May froze to death'
+[16Dec2024 20:27:08.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['May'/142, l='ServerLevel[world]', x=-2130.52, y=151.00, z=-1861.32] died: May froze to death
+[16Dec2024 20:27:51.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed moved too quickly! 3.2694486409463934,4.0,8.815715278975404
+[16Dec2024 20:28:10.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> oe si
+[16Dec2024 20:28:16.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> -1927 -1793
+[16Dec2024 20:28:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> HOLA PS
+[16Dec2024 20:28:52.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Sweet Dreams]
+[16Dec2024 20:29:20.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> toy dentro del barco
+[16Dec2024 20:29:49.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed moved too quickly! 7.583871489325702,-1.0,-6.507058154187234
+[16Dec2024 20:29:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was shot by Skeleton
+[16Dec2024 20:30:01.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
+[16Dec2024 20:30:36.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Monster Hunter]
+[16Dec2024 20:31:07.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 20:31:07.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 20:31:12.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Not Today, Thank You]
+[16Dec2024 20:31:31.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was shot by Skeleton
+[16Dec2024 20:31:42.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Not Today, Thank You]
+[16Dec2024 20:31:56.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fatmeh'/135, l='ServerLevel[world]', x=-2130.51, y=151.00, z=-1865.49] died, message: 'Fatmeh froze to death'
+[16Dec2024 20:31:56.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fatmeh'/135, l='ServerLevel[world]', x=-2130.51, y=151.00, z=-1865.49] died: Fatmeh froze to death
+[16Dec2024 20:32:29.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed moved too quickly! -9.003526329946908,2.1661092609382138,4.266436416613942
+[16Dec2024 20:32:38.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Suit Up]
+[16Dec2024 20:34:49.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Light as a Rabbit]
+[16Dec2024 20:35:07.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Stone Age]
