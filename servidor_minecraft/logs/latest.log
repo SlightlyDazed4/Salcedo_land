@@ -247,3 +247,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 02:06:30.081] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Dec2024 02:06:30.081] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [17Dec2024 02:06:30.081] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[17Dec2024 02:15:55.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Milanesas2718314[/127.150.231.4:43925] logged in with entity id 2590 at (-2727.487747503452, 63.0, -1798.300000011921)
+[17Dec2024 02:15:55.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 joined the game
+[17Dec2024 02:15:55.730] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
+[17Dec2024 02:19:50.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> DIEGO
+[17Dec2024 02:19:55.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> CHAT D VOZ P
+[17Dec2024 02:21:14.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Milanesas2718314) moved wrongly! 0.3869391994903708
+[17Dec2024 02:21:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> DUERME P
+[17Dec2024 02:21:48.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> no puedoi
+[17Dec2024 02:22:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> PIPIPI
