@@ -272,3 +272,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 22:10:44.832] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
 [17Dec2024 22:11:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
 [17Dec2024 22:11:13.783] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:13:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Uzsahe the Endborn
+[17Dec2024 22:13:12.332] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:13:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:14:46.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:15:03.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Uzsahe the Endborn
+[17Dec2024 22:15:03.574] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:15:11.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set the time to 1000]
+[17Dec2024 22:15:20.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:16:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:16:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
+[17Dec2024 22:16:28.184] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:16:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
+[17Dec2024 22:16:38.885] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:16:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:17:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:18:24.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
+[17Dec2024 22:18:24.683] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:18:43.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/12332, l='ServerLevel[world]', x=-4238.97, y=81.00, z=2425.39] died: Uzsahe the Endborn was slain by Slighttly_Dazed
+[17Dec2024 22:22:42.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:25:43.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Who You Gonna Call?]
+[17Dec2024 22:26:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set the time to 1000]
+[17Dec2024 22:32:41.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:36:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set the time to 1000]
+[17Dec2024 22:37:09.077] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[17Dec2024 22:37:09.079] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[17Dec2024 22:42:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Siren
+[17Dec2024 22:42:16.732] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:42:26.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:43:17.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Tie me to the Mast]

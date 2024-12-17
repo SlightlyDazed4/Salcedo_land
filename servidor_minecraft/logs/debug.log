@@ -2737,3 +2737,86 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 22:11:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
 [17Dec2024 22:11:13.777] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-4222, y:80, z:2410, dim:minecraft:overworld]
 [17Dec2024 22:11:13.783] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:13:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Uzsahe the Endborn
+[17Dec2024 22:13:12.331] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-4204, y:68, z:2427, dim:minecraft:overworld]
+[17Dec2024 22:13:12.332] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:13:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:13:50.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:13:50.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:14:46.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:15:03.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Uzsahe the Endborn
+[17Dec2024 22:15:03.574] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-4204, y:61, z:2426, dim:minecraft:overworld]
+[17Dec2024 22:15:03.574] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:15:11.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set the time to 1000]
+[17Dec2024 22:15:20.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:16:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:16:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
+[17Dec2024 22:16:28.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-4220, y:80, z:2402, dim:minecraft:overworld]
+[17Dec2024 22:16:28.184] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:16:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
+[17Dec2024 22:16:38.885] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:16:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:17:58.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:18:24.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Uzsahe the Endborn
+[17Dec2024 22:18:24.676] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-4233, y:81, z:2422, dim:minecraft:overworld]
+[17Dec2024 22:18:24.683] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:18:43.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/12332, l='ServerLevel[world]', x=-4238.97, y=81.00, z=2425.39] died: Uzsahe the Endborn was slain by Slighttly_Dazed
+[17Dec2024 22:18:50.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:18:50.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:22:42.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:23:04.164] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=-4246, y=-43, z=2086} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:23:05.221] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4414, y=-9, z=2068} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:23:11.853] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-4165, y=75, z=2026} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:23:47.244] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4584, y=-54, z=1925} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:23:49.815] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4479, y=24, z=1911} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:23:50.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:23:50.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:24:05.052] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4657, y=17, z=1941} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:24:12.019] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-4305, y=11, z=1780} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:24:17.049] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4734, y=-8, z=2097} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:24:20.980] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4736, y=-41, z=1799} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:24:37.644] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-4862, y=-11, z=2040} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:24:41.821] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4873, y=58, z=1819} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:24:42.746] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-4878, y=-21, z=1753} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:25:43.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Who You Gonna Call?]
+[17Dec2024 22:26:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set the time to 1000]
+[17Dec2024 22:26:23.084] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-4961, y=29, z=2121} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:26:56.008] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5232, y=-31, z=1761} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:27:06.258] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-5339, y=-1, z=1972} at Chest with:minecraft:chests/underwater_ruin_big
+[17Dec2024 22:27:28.670] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-4982, y=-30, z=2203} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:27:31.675] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-5185, y=-38, z=2234} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:27:43.930] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-5204, y=-48, z=2357} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:27:59.110] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-5126, y=6, z=2448} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:28:02.931] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-4983, y=-33, z=2476} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:28:06.631] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-4808, y=-43, z=2501} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:28:26.259] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-5156, y=17, z=2646} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:28:50.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:28:50.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:29:05.946] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-4879, y=-6, z=2670} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:29:56.650] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-4783, y=-45, z=2298} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:31:45.920] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5089, y=-25, z=1533} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:31:48.777] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-4806, y=36, z=1546} at Chest with:minecraft:chests/stronghold_corridor
+[17Dec2024 22:31:53.260] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4772, y=141, z=1540} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:32:41.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 22:33:50.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:33:50.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:34:57.401] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4725, y=75, z=1465} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:35:00.596] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-4707, y=-29, z=1543} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:35:50.223] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-4804, y=-1, z=1379} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:36:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set the time to 1000]
+[17Dec2024 22:36:24.691] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-4965, y=114, z=1305} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:36:46.550] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-5168, y=-15, z=1220} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:37:09.077] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[17Dec2024 22:37:09.079] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[17Dec2024 22:37:26.344] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5031, y=-41, z=1152} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:37:27.196] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4748, y=-16, z=1144} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:38:50.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:38:50.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:41:49.232] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-5576, y=3, z=1741} at Chest with:minecraft:chests/shipwreck_map
+[17Dec2024 22:41:58.721] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-5631, y=-32, z=1655} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:41:59.407] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-5644, y=2, z=1421} at Chest with:minecraft:chests/underwater_ruin_small
+[17Dec2024 22:42:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Siren
+[17Dec2024 22:42:16.728] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-5455, y:62, z:1611, dim:minecraft:overworld]
+[17Dec2024 22:42:16.732] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 22:42:26.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 22:43:17.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Tie me to the Mast]
