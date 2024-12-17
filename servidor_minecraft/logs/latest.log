@@ -256,3 +256,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 02:21:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> DUERME P
 [17Dec2024 02:21:48.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> no puedoi
 [17Dec2024 02:22:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> PIPIPI
+[17Dec2024 02:24:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> porfin
+[17Dec2024 02:24:38.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> DIAMANTE?
+[17Dec2024 02:24:47.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> paro la lluvia
+[17Dec2024 02:24:49.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdxdxd
+[17Dec2024 02:26:35.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Milanesas2718314) moved wrongly! 0.8327287141992201
+[17Dec2024 02:37:37.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed moved too quickly! 9.768392382593447,-0.6709083839323,-2.817582687050617
+[17Dec2024 02:42:29.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed was kicked for floating too long!
+[17Dec2024 02:42:29.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: Flying is not enabled on this server
+[17Dec2024 02:42:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
+[17Dec2024 02:42:41.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:57913] logged in with entity id 11757 at (-2387.9121576168973, 172.6764708761443, -1700.3296086334)
+[17Dec2024 02:42:41.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
+[17Dec2024 02:42:41.884] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
+[17Dec2024 02:42:59.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Ice Dragon
+[17Dec2024 02:43:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
+[17Dec2024 02:45:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was turned to ice by Ice Dragon
+[17Dec2024 02:50:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Ice Dragon
+[17Dec2024 02:50:27.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
+[17Dec2024 02:51:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Diamonds!]
+[17Dec2024 02:54:21.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
+[17Dec2024 02:54:21.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
