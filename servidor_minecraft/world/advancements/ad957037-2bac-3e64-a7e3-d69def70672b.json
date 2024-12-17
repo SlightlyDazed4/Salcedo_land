@@ -139,9 +139,11 @@
     "criteria": {
       "chorus_fruit": "2024-12-17 05:41:45 +0000",
       "beef": "2024-12-17 05:10:31 +0000",
+      "porkchop": "2024-12-17 20:57:26 +0000",
       "potato": "2024-12-16 20:02:03 +0000",
       "bread": "2024-12-16 20:12:33 +0000",
       "rotten_flesh": "2024-12-17 03:36:42 +0000",
+      "cooked_chicken": "2024-12-17 20:56:24 +0000",
       "carrot": "2024-12-16 20:02:06 +0000"
     },
     "done": false
@@ -2823,6 +2825,24 @@
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2024-12-17 06:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-17 20:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-17 20:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-17 20:53:26 +0000"
     },
     "done": true
   },
