@@ -2557,3 +2557,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 15:09:20.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 15:11:28.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yusuf'/2669, l='ServerLevel[world]', x=-2176.30, y=162.00, z=-1792.50] died, message: 'Yusuf froze to death'
 [17Dec2024 15:11:28.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yusuf'/2669, l='ServerLevel[world]', x=-2176.30, y=162.00, z=-1792.50] died: Yusuf froze to death
+[17Dec2024 15:14:20.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:14:20.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:19:20.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:19:20.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:19:44.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2460, l='ServerLevel[world]', x=-2182.30, y=161.16, z=-1820.50] died, message: 'Leatherworker froze to death'
+[17Dec2024 15:21:24.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Atousa'/2464, l='ServerLevel[world]', x=-2155.68, y=153.00, z=-1854.51] died, message: 'Atousa froze to death'
+[17Dec2024 15:21:24.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Atousa'/2464, l='ServerLevel[world]', x=-2155.68, y=153.00, z=-1854.51] died: Atousa froze to death
