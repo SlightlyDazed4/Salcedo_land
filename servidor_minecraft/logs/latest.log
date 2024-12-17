@@ -297,3 +297,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 03:40:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Christmas]
 [17Dec2024 03:40:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Mysterious Gift]
 [17Dec2024 03:42:21.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> -2701, -1738
+[17Dec2024 03:46:03.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was slain by Siren
+[17Dec2024 03:46:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Your First Grave]
+[17Dec2024 03:46:03.688] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[17Dec2024 03:46:06.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [The Most Useful Key]
+[17Dec2024 03:46:14.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Knowledge of Death]
+[17Dec2024 03:46:14.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has reached the goal [A Fast Comeback]
+[17Dec2024 03:47:56.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was slain by Siren
+[17Dec2024 03:47:56.035] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[17Dec2024 03:51:34.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -9.962936507869927,-1.0752008901189498,0.5103174298615158
+[17Dec2024 03:52:09.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -7.385798259210333,-0.2522033402537289,-6.857299516662351
