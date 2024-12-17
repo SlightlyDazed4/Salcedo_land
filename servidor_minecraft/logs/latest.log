@@ -274,3 +274,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 03:21:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Sea? Not a Problem]
 [17Dec2024 03:21:35.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
 [17Dec2024 03:21:35.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
+[17Dec2024 03:35:31.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Zombie
+[17Dec2024 03:35:31.733] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_17.12.2024-03.35.31.dat
+[17Dec2024 03:35:31.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Your First Grave]
+[17Dec2024 03:35:31.754] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 03:35:36.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [The Most Useful Key]
+[17Dec2024 03:35:38.873] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,tombstone:tombstone_channel,mca:main,cosmeticarmorreworked:main,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,minecraft:treechop-channel] rejected vanilla connections
+[17Dec2024 03:35:38.874] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.251.60.18:48947] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[17Dec2024 03:35:41.399] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [forge:tier_sorting,tombstone:tombstone_channel,mca:main,cosmeticarmorreworked:main,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,minecraft:treechop-channel] rejected vanilla connections
+[17Dec2024 03:35:41.400] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.251.60.18:37423] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[17Dec2024 03:35:49.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Knowledge of Death]
+[17Dec2024 03:35:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [A Fast Comeback]
+[17Dec2024 03:35:50.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Here They Come]
+[17Dec2024 03:38:15.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: You logged in from another location
+[17Dec2024 03:38:15.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
+[17Dec2024 03:38:15.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:55679] logged in with entity id 8941 at (-2127.5, 154.0, -1873.5)
+[17Dec2024 03:38:15.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
+[17Dec2024 03:38:15.202] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
+[17Dec2024 03:40:11.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loco_Supreme[/127.94.20.25:48665] logged in with entity id 9158 at (-2770.9870362945817, 62.438086674895914, -1751.610538819639)
+[17Dec2024 03:40:11.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme joined the game
+[17Dec2024 03:40:11.222] [Server thread/INFO] [Jade/]: Syncing config to Loco_Supreme (2332d0ef-ad9d-381b-a507-929ab90bf56d)
+[17Dec2024 03:40:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Christmas]
+[17Dec2024 03:40:11.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Mysterious Gift]
+[17Dec2024 03:42:21.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> -2701, -1738
