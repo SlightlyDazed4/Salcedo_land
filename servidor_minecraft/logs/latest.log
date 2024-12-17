@@ -267,3 +267,131 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 04:15:01.125] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [17Dec2024 04:15:01.163] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@444f8545[id=<null>,name=Samaster560,properties={},legacy=false] (/127.122.95.117:39245) lost connection: Connection closed - mismatched mod channel list
 [17Dec2024 04:16:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Hired Help]
+[17Dec2024 04:19:58.313] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [mca:main,minecraft:treechop-channel,cosmeticarmorreworked:main,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel] rejected their client side version number
+[17Dec2024 04:19:58.314] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17Dec2024 04:19:58.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46181e[id=<null>,name=Samaster560,properties={},legacy=false] (/127.122.95.117:53729) lost connection: Connection closed - mismatched mod channel list
+[17Dec2024 04:21:13.221] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74adea07[id=<null>,name=Samaster560,properties={},legacy=false] (/127.122.95.117:37699) lost connection: Disconnected
+[17Dec2024 04:22:36.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme was kicked for floating too long!
+[17Dec2024 04:22:36.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme lost connection: Flying is not enabled on this server
+[17Dec2024 04:22:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme left the game
+[17Dec2024 04:22:51.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loco_Supreme[/127.94.20.25:46717] logged in with entity id 4300 at (-2133.4846765470143, 123.17675927506424, -1637.8655079836826)
+[17Dec2024 04:22:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme joined the game
+[17Dec2024 04:22:51.495] [Server thread/INFO] [Jade/]: Syncing config to Loco_Supreme (2332d0ef-ad9d-381b-a507-929ab90bf56d)
+[17Dec2024 04:23:49.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sanaa'/4048, l='ServerLevel[world]', x=-2130.61, y=151.00, z=-1865.50] died, message: 'Sanaa froze to death'
+[17Dec2024 04:23:49.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sana'/4215, l='ServerLevel[world]', x=-2158.21, y=153.00, z=-1854.52] died, message: 'Sana froze to death'
+[17Dec2024 04:23:50.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samaster560[/127.122.95.117:34291] logged in with entity id 5208 at (9.5, 64.0, -0.5)
+[17Dec2024 04:23:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 joined the game
+[17Dec2024 04:23:50.469] [Server thread/INFO] [Jade/]: Syncing config to Samaster560 (4c7df704-4f7f-3e8d-909c-153d77beea20)
+[17Dec2024 04:23:50.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Christmas]
+[17Dec2024 04:23:50.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Ice and Fire]
+[17Dec2024 04:23:59.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nahid'/4028, l='ServerLevel[world]', x=-2129.34, y=151.00, z=-1865.31] died, message: 'Nahid froze to death'
+[17Dec2024 04:24:04.015] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Shazia'/4096, l='ServerLevel[world]', x=-2154.43, y=153.00, z=-1854.74] died, message: 'Shazia froze to death'
+[17Dec2024 04:24:29.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 04:24:49.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samaster560 lost connection: Disconnected
+[17Dec2024 04:24:49.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 left the game
+[17Dec2024 04:24:55.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Shahnaz'/3782, l='ServerLevel[world]', x=-2151.58, y=157.00, z=-1851.43] died, message: 'Shahnaz froze to death'
+[17Dec2024 04:25:10.847] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miray'/3846, l='ServerLevel[world]', x=-2170.72, y=160.00, z=-1831.50] died, message: 'Miray froze to death'
+[17Dec2024 04:25:40.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mohamed'/4374, l='ServerLevel[world]', x=-2156.49, y=153.00, z=-1854.61] died, message: 'Mohamed froze to death'
+[17Dec2024 04:25:43.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.288902694393073,0.0,10.319819597643345
+[17Dec2024 04:25:43.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.3384758749466528,0.0,10.716735736014243
+[17Dec2024 04:25:43.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.3880490555002325,0.0,11.113651874385141
+[17Dec2024 04:25:43.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.4376222360538122,0.0,11.510568012756039
+[17Dec2024 04:25:43.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.487195416607392,0.0,11.907484151126937
+[17Dec2024 04:25:43.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.5367685971609717,0.0,12.304400289497835
+[17Dec2024 04:25:43.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.5863417777145514,0.0,12.701316427868733
+[17Dec2024 04:25:43.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.6366447109726323,0.0,13.098134594830071
+[17Dec2024 04:25:43.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.6888767042105428,0.0,13.49466087375049
+[17Dec2024 04:25:43.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.7447094038820978,0.0,13.890549108091818
+[17Dec2024 04:25:43.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.805449820636568,0.0,14.285448239098287
+[17Dec2024 04:25:43.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.8720793875722848,0.0,14.67902657082118
+[17Dec2024 04:25:43.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved too quickly! -1.9452902479465592,0.0,15.070990796046772
+[17Dec2024 04:25:52.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samaster560[/127.122.95.117:36751] logged in with entity id 7691 at (9.5, 64.0, -0.5)
+[17Dec2024 04:25:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 joined the game
+[17Dec2024 04:25:52.541] [Server thread/INFO] [Jade/]: Syncing config to Samaster560 (4c7df704-4f7f-3e8d-909c-153d77beea20)
+[17Dec2024 04:26:02.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=65, z=1}
+[17Dec2024 04:26:02.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=65, z=1}
+[17Dec2024 04:26:50.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2171, y=159, z=-1834} BlockPos{x=-2171, y=158, z=-1834}
+[17Dec2024 04:27:38.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sooad'/3812, l='ServerLevel[world]', x=-2159.67, y=153.00, z=-1854.39] died, message: 'Sooad froze to death'
+[17Dec2024 04:28:27.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dareen'/4124, l='ServerLevel[world]', x=-2150.29, y=155.00, z=-1854.50] died, message: 'Dareen froze to death'
+[17Dec2024 04:29:25.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported Slighttly_Dazed to Samaster560]
+[17Dec2024 04:30:06.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Stone Age]
+[17Dec2024 04:30:25.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Sea? Not a Problem]
+[17Dec2024 04:30:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Getting an Upgrade]
+[17Dec2024 04:30:53.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported 3 entities to Loco_Supreme]
+[17Dec2024 04:33:09.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 was slain by Siren
+[17Dec2024 04:33:09.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Your First Grave]
+[17Dec2024 04:33:09.680] [Server thread/INFO] [tombstone/]: The player Samaster560 has successfully been saved
+[17Dec2024 04:33:12.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [The Most Useful Key]
+[17Dec2024 04:33:32.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Knowledge of Death]
+[17Dec2024 04:33:32.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has reached the goal [A Fast Comeback]
+[17Dec2024 04:35:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Loco_Supreme
+[17Dec2024 04:35:35.952] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_17.12.2024-04.35.35.dat
+[17Dec2024 04:35:35.955] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 04:36:07.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 was slain by Loco_Supreme
+[17Dec2024 04:36:07.150] [Server thread/INFO] [tombstone/]: The player Samaster560 has successfully been saved
+[17Dec2024 04:36:46.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported 3 entities to Loco_Supreme]
+[17Dec2024 04:38:39.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.3286762489940429
+[17Dec2024 04:38:39.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.6957289991006519
+[17Dec2024 04:38:39.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.34140362663004
+[17Dec2024 04:38:39.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.507373878144108
+[17Dec2024 04:38:39.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 1.065720781284199
+[17Dec2024 04:38:39.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 1.4382804371966813
+[17Dec2024 04:38:39.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.2595389605367018
+[17Dec2024 04:38:39.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.34002086305747525
+[17Dec2024 04:38:39.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.7172540973386958
+[17Dec2024 04:38:39.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.34416074723355905
+[17Dec2024 04:38:39.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.3265996597077674
+[17Dec2024 04:38:39.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.34575348929297434
+[17Dec2024 04:38:39.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.7279067855765788
+[17Dec2024 04:38:39.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 1.0225315869478209
+[17Dec2024 04:38:39.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.26286747218182427
+[17Dec2024 04:38:39.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.35588576895634105
+[17Dec2024 04:38:40.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.49239139254848396
+[17Dec2024 04:38:40.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.26917715316358226
+[17Dec2024 04:38:40.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.27013732071191043
+[17Dec2024 04:38:40.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.32084423921082816
+[17Dec2024 04:38:40.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Loco_Supreme) moved wrongly! 0.5425283768902318
+[17Dec2024 04:38:40.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.6883146900504471
+[17Dec2024 04:38:40.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.30948380593486036
+[17Dec2024 04:41:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Minecraft Comes Alive]
+[17Dec2024 04:41:22.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.3458930319175124
+[17Dec2024 04:41:22.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.3535346510657291
+[17Dec2024 04:41:22.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.3604121081170888
+[17Dec2024 04:41:22.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Samaster560) moved wrongly! 0.3666018192993761
+[17Dec2024 04:41:53.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [A Seedy Place]
+[17Dec2024 04:42:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Sweet Dreams]
+[17Dec2024 04:43:38.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -8.464800104785581,-0.3739040364667261,-5.562904941054512
+[17Dec2024 04:43:41.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -5.34684242968342,0.9893499858739716,8.47922718737891
+[17Dec2024 04:43:44.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -3.2426610650713883,-1.1767592750642422,9.514568561459328
+[17Dec2024 04:43:52.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! 7.277267891009842,1.0,7.024980292650071
+[17Dec2024 04:45:06.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! 9.679850662018453,-1.0752008901189498,3.023018582991881
+[17Dec2024 04:45:48.473] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[17Dec2024 04:45:48.494] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[17Dec2024 04:45:48.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[17Dec2024 04:45:48.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[17Dec2024 04:45:48.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[17Dec2024 04:45:48.518] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[17Dec2024 04:45:50.677] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[17Dec2024 04:45:50.683] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[17Dec2024 04:45:50.710] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[17Dec2024 04:45:50.711] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[17Dec2024 04:45:51.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -9.113126563236847,1.9893499858739716,4.183168123418909
+[17Dec2024 04:45:53.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -8.795830043579372,0.04353562014750878,5.272017775575023
+[17Dec2024 04:46:08.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed moved too quickly! 6.404110616231492,0.0,7.920567537834813
+[17Dec2024 04:46:36.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -4.992369233492127,-0.4990033597325265,-8.920075149310833
+[17Dec2024 04:46:54.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -7.6377385683586,-0.6709083839322858,6.859755797841899
+[17Dec2024 04:49:36.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -9.968269130182307,0.604424101326714,1.0544568953810085
+[17Dec2024 04:49:39.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -9.307152774003498,-1.252203340253729,3.7551682760431504
+[17Dec2024 04:49:44.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed moved too quickly! -9.008867582355833,0.0,4.561712765005723
+[17Dec2024 04:49:50.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -9.466582222883517,1.1767592750642422,3.582788221071951
+[17Dec2024 04:49:54.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme moved too quickly! -9.32963226982929,1.1754232959521005,4.169835267957751
+[17Dec2024 04:51:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was slain by Husk
+[17Dec2024 04:51:10.266] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loco_Supreme with unique ID travelersbackpack.standard_17.12.2024-04.51.10.dat
+[17Dec2024 04:51:10.269] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[17Dec2024 04:51:23.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has reached the goal [Here They Come]
+[17Dec2024 04:53:05.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Husk
+[17Dec2024 04:53:05.418] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 04:53:25.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Chain Death]
+[17Dec2024 04:53:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Husk
+[17Dec2024 04:53:25.918] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[17Dec2024 04:57:03.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Monster Hunter]
