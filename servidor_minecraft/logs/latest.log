@@ -327,3 +327,8 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23143!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17Dec2024 23:04:31.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Dummy the useless, used for adding fail chances to a loottables spawn list.'/32914, l='ServerLevel[world]', x=-5773.70, y=72.00, z=1089.30] died: Dummy the useless, used for adding fail chances to a loottables spawn list. was slain by Slighttly_Dazed
+[17Dec2024 23:13:21.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Gave 1 [Monster Spawner] to Slighttly_Dazed]
+[17Dec2024 23:20:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 23:20:49.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: Disconnected
+[17Dec2024 23:20:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
