@@ -301,3 +301,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 22:42:16.732] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
 [17Dec2024 22:42:26.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
 [17Dec2024 22:43:17.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Tie me to the Mast]
+[17Dec2024 22:49:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Cover Me with Diamonds]

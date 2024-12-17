@@ -37,6 +37,7 @@
       "minecraft:forest": "2024-12-16 20:12:15 +0000",
       "minecraft:lush_caves": "2024-12-17 22:31:51 +0000",
       "minecraft:ocean": "2024-12-16 20:41:45 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-17 22:47:37 +0000",
       "minecraft:frozen_peaks": "2024-12-17 02:25:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-17 02:10:00 +0000",
       "minecraft:meadow": "2024-12-17 05:46:39 +0000",
@@ -2861,9 +2862,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-17 22:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-17 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 22:43:17 +0000"
     },
     "done": true
   },
@@ -2879,15 +2892,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 22:47:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-17 22:25:07 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 22:47:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-17 22:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-17 22:44:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-17 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-12-17 22:47:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 22:47:19 +0000"
     },
     "done": true
   },
