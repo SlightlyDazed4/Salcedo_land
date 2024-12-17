@@ -4274,3 +4274,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 06:16:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [What a Deal!]
 [17Dec2024 06:19:04.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 06:19:04.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:24:04.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:24:04.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:25:24.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Easy Opening]
+[17Dec2024 06:27:34.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/68517, l='ServerLevel[world]', x=-2527.98, y=189.92, z=3042.96]
+[17Dec2024 06:27:34.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/68519, l='ServerLevel[world]', x=-2527.95, y=191.07, z=3046.98]
+[17Dec2024 06:27:34.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/68520, l='ServerLevel[world]', x=-2527.94, y=189.63, z=3048.51]
+[17Dec2024 06:27:34.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/68523, l='ServerLevel[world]', x=-2527.92, y=183.94, z=3044.99]
+[17Dec2024 06:27:34.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/68524, l='ServerLevel[world]', x=-2527.79, y=184.49, z=3046.30]
+[17Dec2024 06:27:34.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/68525, l='ServerLevel[world]', x=-2527.86, y=185.11, z=3047.49]
+[17Dec2024 06:27:34.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/68526, l='ServerLevel[world]', x=-2527.61, y=184.83, z=3048.75]
+[17Dec2024 06:28:28.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vassili'/68320, l='ServerLevel[world]', x=-2730.06, y=158.77, z=3032.19] died, message: 'Vassili was energized by Lightning Dragon'
+[17Dec2024 06:28:28.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vassili'/68320, l='ServerLevel[world]', x=-2730.06, y=158.77, z=3032.19] died: Vassili was struck with lightning by Lightning Dragon
+[17Dec2024 06:28:42.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aleksey'/68323, l='ServerLevel[world]', x=-2732.29, y=159.00, z=3029.47] died, message: 'Aleksey was energized by Lightning Dragon'
+[17Dec2024 06:28:42.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aleksey'/68323, l='ServerLevel[world]', x=-2732.29, y=159.00, z=3029.47] died: Aleksey was energized by Lightning Dragon
+[17Dec2024 06:29:04.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:29:04.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
