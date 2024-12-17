@@ -2564,3 +2564,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 15:19:44.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2460, l='ServerLevel[world]', x=-2182.30, y=161.16, z=-1820.50] died, message: 'Leatherworker froze to death'
 [17Dec2024 15:21:24.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Atousa'/2464, l='ServerLevel[world]', x=-2155.68, y=153.00, z=-1854.51] died, message: 'Atousa froze to death'
 [17Dec2024 15:21:24.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Atousa'/2464, l='ServerLevel[world]', x=-2155.68, y=153.00, z=-1854.51] died: Atousa froze to death
+[17Dec2024 15:24:20.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:24:20.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:29:20.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:29:20.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:33:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [A Strange Grave Dust]
+[17Dec2024 15:34:20.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:34:20.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:38:12.446] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-1741, y=0, z=-1300} at Chest with:minecraft:chests/shipwreck_map
+[17Dec2024 15:38:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Fishy Business]
+[17Dec2024 15:39:20.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:39:20.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:43:35.494] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-2367, y=-39, z=-755} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 15:44:12.306] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-2654, y=35, z=-874} at Chest with:minecraft:chests/shipwreck_map
+[17Dec2024 15:44:20.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:44:20.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:44:36.887] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-2797, y=0, z=-724} at Chest with:minecraft:chests/shipwreck_map
+[17Dec2024 15:44:51.321] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-2884, y=-17, z=-991} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 15:45:50.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Knowledge of Death]
+[17Dec2024 15:45:50.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Strong or Careful]
+[17Dec2024 15:45:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Vindicator
+[17Dec2024 15:45:50.097] [Server thread/DEBUG] [tombstone/]: A new grave of the player Milanesas2718314 was created at position [x:-2759, y:63, z:-832, dim:minecraft:overworld]
+[17Dec2024 15:45:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Your First Grave]
+[17Dec2024 15:45:50.110] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[17Dec2024 15:45:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [The Most Useful Key]
+[17Dec2024 15:46:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Here They Come]
+[17Dec2024 15:49:20.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:49:20.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:52:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Ambush]
+[17Dec2024 15:53:23.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Magic Writing]
+[17Dec2024 15:54:20.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:54:20.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -255,3 +255,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 15:19:44.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2460, l='ServerLevel[world]', x=-2182.30, y=161.16, z=-1820.50] died, message: 'Leatherworker froze to death'
 [17Dec2024 15:21:24.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Atousa'/2464, l='ServerLevel[world]', x=-2155.68, y=153.00, z=-1854.51] died, message: 'Atousa froze to death'
 [17Dec2024 15:21:24.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Atousa'/2464, l='ServerLevel[world]', x=-2155.68, y=153.00, z=-1854.51] died: Atousa froze to death
+[17Dec2024 15:33:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [A Strange Grave Dust]
+[17Dec2024 15:38:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Fishy Business]
+[17Dec2024 15:45:50.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Knowledge of Death]
+[17Dec2024 15:45:50.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Strong or Careful]
+[17Dec2024 15:45:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 was slain by Vindicator
+[17Dec2024 15:45:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Your First Grave]
+[17Dec2024 15:45:50.110] [Server thread/INFO] [tombstone/]: The player Milanesas2718314 has successfully been saved
+[17Dec2024 15:45:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [The Most Useful Key]
+[17Dec2024 15:46:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Here They Come]
+[17Dec2024 15:52:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Ambush]
+[17Dec2024 15:53:23.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Magic Writing]
