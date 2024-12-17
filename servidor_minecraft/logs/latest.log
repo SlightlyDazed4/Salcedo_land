@@ -250,3 +250,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 14:54:33.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 joined the game
 [17Dec2024 14:54:33.679] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
 [17Dec2024 14:54:35.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[17Dec2024 15:11:28.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yusuf'/2669, l='ServerLevel[world]', x=-2176.30, y=162.00, z=-1792.50] died, message: 'Yusuf froze to death'
+[17Dec2024 15:11:28.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yusuf'/2669, l='ServerLevel[world]', x=-2176.30, y=162.00, z=-1792.50] died: Yusuf froze to death

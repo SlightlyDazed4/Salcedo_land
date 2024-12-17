@@ -2551,3 +2551,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 14:56:59.493] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-2015, y=0, z=-2483} at Chest with:minecraft:chests/shipwreck_treasure
 [17Dec2024 14:59:20.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 14:59:21.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:04:20.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:04:20.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:09:20.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 15:09:20.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 15:11:28.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yusuf'/2669, l='ServerLevel[world]', x=-2176.30, y=162.00, z=-1792.50] died, message: 'Yusuf froze to death'
+[17Dec2024 15:11:28.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yusuf'/2669, l='ServerLevel[world]', x=-2176.30, y=162.00, z=-1792.50] died: Yusuf froze to death
