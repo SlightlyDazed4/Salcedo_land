@@ -2107,6 +2107,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-17 03:11:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2024-12-17 03:06:56 +0000"

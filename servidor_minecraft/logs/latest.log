@@ -256,3 +256,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 03:08:52.014] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [17Dec2024 03:08:52.029] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18e740c0[id=<null>,name=Milanesas2718314,properties={},legacy=false] (/127.150.231.4:47083) lost connection: Connection closed - mismatched mod channel list
 [17Dec2024 03:11:54.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Poseidon, God of the Seas]
+[17Dec2024 03:13:20.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Milanesas2718314[/127.150.231.4:56107] logged in with entity id 1692 at (-2800.645539551249, 69.875, -1754.8207786422277)
+[17Dec2024 03:13:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 joined the game
+[17Dec2024 03:13:20.550] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
+[17Dec2024 03:13:20.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Christmas]
+[17Dec2024 03:13:20.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Mysterious Gift]
+[17Dec2024 03:13:55.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> onta tu dragno
+[17Dec2024 03:14:43.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[17Dec2024 03:15:11.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[17Dec2024 03:15:55.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> nos va a cagar ese paat
+[17Dec2024 03:15:58.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> u ontas
+[17Dec2024 03:16:07.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> regresando de una dungeon
+[17Dec2024 03:16:37.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> no s q hize y vi los skins d los aldeanos
+[17Dec2024 03:16:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> 10/10 mano
+[17Dec2024 03:16:49.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> o que
+[17Dec2024 03:17:36.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Take Aim]
+[17Dec2024 03:21:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Sea? Not a Problem]
+[17Dec2024 03:21:35.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
+[17Dec2024 03:21:35.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
