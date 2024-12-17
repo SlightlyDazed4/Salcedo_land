@@ -332,3 +332,13 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [17Dec2024 23:20:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
 [17Dec2024 23:20:49.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: Disconnected
 [17Dec2024 23:20:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
+[17Dec2024 23:24:36.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fandelaArequi[/127.122.95.117:51317] logged in with entity id 38275 at (2.5, 65.0, 2.5)
+[17Dec2024 23:24:36.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi joined the game
+[17Dec2024 23:24:36.517] [Server thread/INFO] [Jade/]: Syncing config to fandelaArequi (526908b0-1810-34ef-9daf-0a3e7c005836)
+[17Dec2024 23:24:36.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Christmas]
+[17Dec2024 23:24:36.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Ice and Fire]
+[17Dec2024 23:25:47.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[17Dec2024 23:25:48.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Minecraft Comes Alive]
+[17Dec2024 23:28:33.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Monster Hunter]
+[17Dec2024 23:28:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Acquire Hardware]
+[17Dec2024 23:42:59.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Stone Age]
