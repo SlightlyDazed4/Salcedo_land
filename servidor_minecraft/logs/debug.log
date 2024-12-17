@@ -2751,3 +2751,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 03:21:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Sea? Not a Problem]
 [17Dec2024 03:21:35.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
 [17Dec2024 03:21:35.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
+[17Dec2024 03:23:13.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 03:23:13.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 03:28:13.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 03:28:13.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
