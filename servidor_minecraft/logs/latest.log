@@ -420,3 +420,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [17Dec2024 05:06:29.526] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
 [17Dec2024 05:06:55.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 fell from a high place
 [17Dec2024 05:06:55.174] [Server thread/INFO] [tombstone/]: The player Samaster560 has successfully been saved
+[17Dec2024 05:09:14.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Suit Up]
+[17Dec2024 05:16:04.616] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Ganga}[style={}] has been infected
+[17Dec2024 05:16:07.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ganga'/33751, l='ServerLevel[world]', x=-1898.29, y=74.00, z=2083.63] died, message: 'Ganga was slain by Zombie'
+[17Dec2024 05:16:07.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ganga'/33751, l='ServerLevel[world]', x=-1898.29, y=74.00, z=2083.63] died: Ganga was slain by Zombie
