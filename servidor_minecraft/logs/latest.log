@@ -4122,3 +4122,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 02:54:29.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3795, y=130, z=36} BlockPos{x=-3795, y=129, z=36}
 [18Dec2024 02:58:19.999] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [18Dec2024 03:00:27.452] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Dec2024 03:11:10.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:55665] logged in with entity id 18626 at (-6620.652637734628, 68.0, 992.5589431957835)
+[18Dec2024 03:11:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
+[18Dec2024 03:11:10.116] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
+[18Dec2024 03:11:30.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ontas caumsa
+[18Dec2024 03:11:40.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> -3796 127
+[18Dec2024 03:11:45.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> EN UNA dungeon
+[18Dec2024 03:13:07.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> va va
+[18Dec2024 03:19:53.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Bone Crusher]
+[18Dec2024 03:24:05.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Fortuitous Militia]
+[18Dec2024 03:24:08.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Voluntary Exile]
