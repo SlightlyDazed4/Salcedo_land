@@ -8574,3 +8574,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 06:16:46.120] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Samaster560 with unique ID travelersbackpack.skeleton_18.12.2024-06.16.46.dat
 [18Dec2024 06:16:46.120] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samaster560 was created at position [x:-6827, y:95, z:305, dim:minecraft:overworld]
 [18Dec2024 06:16:46.126] [Server thread/INFO] [tombstone/]: The player Samaster560 has successfully been saved
+[18Dec2024 06:18:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [The Twelve Labors of Hercules]
+[18Dec2024 06:20:16.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:20:16.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:20:50.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> -6700 395
+[18Dec2024 06:25:16.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:25:16.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:25:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[18Dec2024 06:25:52.141] [Worker-Main-46/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-6914, y=-29, z=728} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 06:26:19.353] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-7011, y=-1, z=782} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 06:26:29.855] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-6912, y=-35, z=916} at Chest with:minecraft:chests/ruined_portal
+[18Dec2024 06:26:56.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samaster560 lost connection: Disconnected
+[18Dec2024 06:26:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 left the game

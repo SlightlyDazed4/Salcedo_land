@@ -3406,6 +3406,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2024-12-18 06:24:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/gold_mine": {
     "criteria": {
       "has_mine": "2024-12-18 03:58:02 +0000"
@@ -3493,6 +3499,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-18 05:37:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 06:18:21 +0000"
     },
     "done": true
   },

@@ -4501,3 +4501,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 06:16:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 was slain by Hydra
 [18Dec2024 06:16:46.120] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Samaster560 with unique ID travelersbackpack.skeleton_18.12.2024-06.16.46.dat
 [18Dec2024 06:16:46.126] [Server thread/INFO] [tombstone/]: The player Samaster560 has successfully been saved
+[18Dec2024 06:18:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [The Twelve Labors of Hercules]
+[18Dec2024 06:20:50.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> -6700 395
+[18Dec2024 06:25:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[18Dec2024 06:26:56.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samaster560 lost connection: Disconnected
+[18Dec2024 06:26:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 left the game

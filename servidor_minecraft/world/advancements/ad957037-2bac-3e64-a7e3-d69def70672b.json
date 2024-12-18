@@ -154,6 +154,7 @@
       "potato": "2024-12-16 20:02:03 +0000",
       "mutton": "2024-12-17 21:02:46 +0000",
       "bread": "2024-12-16 20:12:33 +0000",
+      "golden_apple": "2024-12-18 06:17:59 +0000",
       "rotten_flesh": "2024-12-17 03:36:42 +0000",
       "salmon": "2024-12-18 03:30:58 +0000",
       "cooked_chicken": "2024-12-17 20:56:24 +0000",
@@ -3774,15 +3775,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 06:19:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2024-12-18 06:19:31 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/decorations/hanging_prismarite": {
     "criteria": {
       "has_prismarite": "2024-12-18 05:53:53 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-12-18 06:19:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
     "criteria": {
       "has_prismarite": "2024-12-18 05:53:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 06:19:31 +0000"
     },
     "done": true
   },
