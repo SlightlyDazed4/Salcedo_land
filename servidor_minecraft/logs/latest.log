@@ -4491,3 +4491,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 05:59:42.327] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
 [18Dec2024 06:00:33.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was turned into KFC by Fire Dragon
 [18Dec2024 06:00:33.928] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 06:08:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Hydra
+[18Dec2024 06:08:44.279] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_18.12.2024-06.08.44.dat
+[18Dec2024 06:08:44.287] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[18Dec2024 06:11:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Hydra
+[18Dec2024 06:11:51.369] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_18.12.2024-06.11.51.dat
+[18Dec2024 06:11:51.376] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[18Dec2024 06:16:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has reached the goal [Strong or Careful]
+[18Dec2024 06:16:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 was slain by Hydra
+[18Dec2024 06:16:46.120] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Samaster560 with unique ID travelersbackpack.skeleton_18.12.2024-06.16.46.dat
+[18Dec2024 06:16:46.126] [Server thread/INFO] [tombstone/]: The player Samaster560 has successfully been saved

@@ -8557,3 +8557,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 06:00:33.928] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
 [18Dec2024 06:05:16.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 06:05:16.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:08:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Hydra
+[18Dec2024 06:08:44.279] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_18.12.2024-06.08.44.dat
+[18Dec2024 06:08:44.279] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-6835, y:96, z:312, dim:minecraft:overworld]
+[18Dec2024 06:08:44.287] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[18Dec2024 06:10:16.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:10:16.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:11:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Hydra
+[18Dec2024 06:11:51.369] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_18.12.2024-06.11.51.dat
+[18Dec2024 06:11:51.369] [Server thread/DEBUG] [tombstone/]: A new grave of the player Slighttly_Dazed was created at position [x:-6839, y:93, z:286, dim:minecraft:overworld]
+[18Dec2024 06:11:51.376] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[18Dec2024 06:15:16.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:15:16.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:16:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has reached the goal [Strong or Careful]
+[18Dec2024 06:16:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 was slain by Hydra
+[18Dec2024 06:16:46.120] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Samaster560 with unique ID travelersbackpack.skeleton_18.12.2024-06.16.46.dat
+[18Dec2024 06:16:46.120] [Server thread/DEBUG] [tombstone/]: A new grave of the player Samaster560 was created at position [x:-6827, y:95, z:305, dim:minecraft:overworld]
+[18Dec2024 06:16:46.126] [Server thread/INFO] [tombstone/]: The player Samaster560 has successfully been saved

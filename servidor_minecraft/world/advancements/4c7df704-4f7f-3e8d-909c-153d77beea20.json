@@ -1750,6 +1750,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 06:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 05:20:49 +0000"
@@ -1765,6 +1771,18 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-18 05:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-18 06:06:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_sapling": "2024-12-18 06:06:02 +0000"
     },
     "done": true
   },
@@ -2140,9 +2158,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2024-12-18 06:06:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-18 05:26:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2024-12-18 06:05:35 +0000"
     },
     "done": true
   },
@@ -2218,6 +2248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-18 06:06:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2024-12-18 04:58:11 +0000"
@@ -2259,6 +2295,12 @@
       "has_granite": "2024-12-18 05:05:57 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2024-12-18 06:05:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
@@ -2458,6 +2500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-18 06:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-18 05:05:59 +0000"
@@ -2467,6 +2515,12 @@
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 04:29:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-12-18 06:05:34 +0000"
     },
     "done": true
   },
@@ -2578,6 +2632,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2024-12-18 06:06:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 04:29:00 +0000"
@@ -2617,6 +2677,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 05:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-18 06:06:24 +0000"
     },
     "done": true
   },
@@ -2716,6 +2782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-18 06:06:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-18 05:26:46 +0000"
@@ -2741,6 +2813,12 @@
       "towering_cliffs": "2024-12-18 04:47:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-18 06:06:24 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
@@ -2802,6 +2880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-18 06:06:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "rocky_meadow": "2024-12-18 04:29:27 +0000",
@@ -2842,6 +2926,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 05:20:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 06:05:34 +0000"
     },
     "done": true
   },
