@@ -301,3 +301,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 22:09:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [The Most Useful Key]
 [18Dec2024 22:09:16.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Knowledge of Death]
 [18Dec2024 22:09:16.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has reached the goal [A Fast Comeback]
+[18Dec2024 22:12:44.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[18Dec2024 22:15:35.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fandelaArequi lost connection: Disconnected
+[18Dec2024 22:15:35.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi left the game
+[18Dec2024 22:17:00.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fandelaArequi[/127.122.95.117:42149] logged in with entity id 23352 at (-3344.3471672258524, 64.0, -938.0716830829689)
+[18Dec2024 22:17:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi joined the game
+[18Dec2024 22:17:00.581] [Server thread/INFO] [Jade/]: Syncing config to fandelaArequi (526908b0-1810-34ef-9daf-0a3e7c005836)
+[18Dec2024 22:18:33.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Sweet Dreams]
