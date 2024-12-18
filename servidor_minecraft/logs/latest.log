@@ -4120,3 +4120,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 02:51:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Book of Monsters]
 [18Dec2024 02:53:38.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigorij'/13684, l='ServerLevel[world]', x=-3827.27, y=126.00, z=-8.30] died, message: 'Grigorij was shot by Pillager'
 [18Dec2024 02:54:29.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3795, y=130, z=36} BlockPos{x=-3795, y=129, z=36}
+[18Dec2024 02:58:19.999] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[18Dec2024 03:00:27.452] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
