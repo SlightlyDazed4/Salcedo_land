@@ -2863,31 +2863,19 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-17 22:44:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-17 22:20:25 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-12-17 22:49:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-17 22:43:17 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-17 22:25:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-17 22:25:07 +0000"
     },
@@ -2899,15 +2887,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_green_leggings": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "has_item": "2024-12-17 22:47:19 +0000"
+      "killed_fire_dragon": "2024-12-17 22:25:43 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "has_item": "2024-12-17 22:25:07 +0000"
+      "killed_fire_dragon": "2024-12-17 22:43:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-17 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-17 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 22:47:19 +0000"
     },
     "done": true
   },
@@ -2923,18 +2929,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-17 22:44:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-17 22:25:43 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
       "has_sea_serpent_scales_green": "2024-12-17 22:47:19 +0000"
@@ -2944,6 +2938,18 @@
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2024-12-17 22:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-17 22:49:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-18 02:00:06 +0000"
     },
     "done": true
   },
