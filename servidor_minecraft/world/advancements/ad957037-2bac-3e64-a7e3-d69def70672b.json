@@ -3781,6 +3781,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2024-12-18 06:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2024-12-18 06:26:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "pine_log": "2024-12-18 06:19:31 +0000"
@@ -3796,6 +3808,12 @@
   "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
     "criteria": {
       "has_log": "2024-12-18 06:19:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_aster": {
+    "criteria": {
+      "has_aster": "2024-12-18 06:29:16 +0000"
     },
     "done": true
   },

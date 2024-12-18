@@ -3796,6 +3796,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stripped_mauve_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 06:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-18 03:53:43 +0000"
@@ -3913,6 +3919,12 @@
   "securitycraft:recipes/building_blocks/emerald_mine": {
     "criteria": {
       "has_mine": "2024-12-18 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_hanging_sign": {
+    "criteria": {
+      "has_stripped_mauve_log": "2024-12-18 06:28:24 +0000"
     },
     "done": true
   },

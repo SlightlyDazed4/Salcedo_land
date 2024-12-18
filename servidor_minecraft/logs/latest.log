@@ -4506,3 +4506,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 06:25:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
 [18Dec2024 06:26:56.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samaster560 lost connection: Disconnected
 [18Dec2024 06:26:56.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 left the game
+[18Dec2024 06:28:36.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anica'/99681, l='ServerLevel[world]', x=-6713.02, y=80.00, z=426.63] died, message: 'Anica was slain by Zombie'
+[18Dec2024 06:29:16.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Blanka'/73190, l='ServerLevel[world]', x=-6766.19, y=76.94, z=397.33] died, message: 'Blanka was slain by Zombie'
+[18Dec2024 06:29:16.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Blanka'/73190, l='ServerLevel[world]', x=-6766.19, y=76.94, z=397.33] died: Blanka was slain by Zombie
+[18Dec2024 06:30:01.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme lost connection: Disconnected
+[18Dec2024 06:30:01.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme left the game
+[18Dec2024 06:37:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[18Dec2024 06:37:31.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: Disconnected
+[18Dec2024 06:37:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
