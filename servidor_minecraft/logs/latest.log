@@ -4442,3 +4442,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 04:45:59.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> ENTRA OE
 [18Dec2024 04:46:02.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> tamos en dsicord
 [18Dec2024 04:46:03.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> TU FALTA NOMAS
+[18Dec2024 04:51:32.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Šime'/38693, l='ServerLevel[world]', x=-6774.30, y=74.00, z=401.30] died, message: 'Šime blew up'
+[18Dec2024 04:51:32.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milan'/38619, l='ServerLevel[world]', x=-6774.30, y=74.00, z=402.53] died, message: 'Milan blew up'
+[18Dec2024 04:51:32.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dragica'/38744, l='ServerLevel[world]', x=-6776.93, y=74.00, z=402.47] died, message: 'Dragica blew up'
+[18Dec2024 04:51:32.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kuzma'/38743, l='ServerLevel[world]', x=-6772.78, y=77.36, z=404.04] died, message: 'Kuzma blew up'
+[18Dec2024 04:51:32.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zoran'/38695, l='ServerLevel[world]', x=-6769.26, y=77.75, z=402.97] died, message: 'Zoran blew up'
+[18Dec2024 04:51:32.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sandra'/38719, l='ServerLevel[world]', x=-6778.74, y=73.00, z=405.74] died, message: 'Sandra went up in flames'
