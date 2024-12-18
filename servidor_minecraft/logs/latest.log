@@ -4095,3 +4095,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 02:22:28.849] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
 [18Dec2024 02:23:27.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Ashes 'n Bones]
 [18Dec2024 02:31:26.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3692, y=124, z=-262} BlockPos{x=-3692, y=122, z=-262}
+[18Dec2024 02:43:13.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yurij'/13791, l='ServerLevel[world]', x=-3804.83, y=131.00, z=27.70] died, message: 'Yurij was slain by Vindicator'
+[18Dec2024 02:43:21.503] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[18Dec2024 02:43:21.504] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[18Dec2024 02:43:24.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vadim'/13724, l='ServerLevel[world]', x=-3811.56, y=129.00, z=17.57] died, message: 'Vadim was slain by Vindicator'
+[18Dec2024 02:43:24.734] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[18Dec2024 02:43:24.734] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[18Dec2024 02:43:24.735] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[18Dec2024 02:43:24.735] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[18Dec2024 02:43:24.735] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[18Dec2024 02:43:24.743] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[18Dec2024 02:43:24.744] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[18Dec2024 02:43:24.744] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[18Dec2024 02:43:24.744] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[18Dec2024 02:43:24.744] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[18Dec2024 02:43:24.745] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[18Dec2024 02:43:42.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Julia'/13749, l='ServerLevel[world]', x=-3813.46, y=129.00, z=13.81] died, message: 'Julia was slain by Vindicator'
+[18Dec2024 02:43:52.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grygorii'/13756, l='ServerLevel[world]', x=-3782.36, y=127.70, z=0.35] died, message: 'Grygorii went up in flames'
+[18Dec2024 02:44:15.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigoriy'/12218, l='ServerLevel[world]', x=-3822.50, y=129.86, z=26.59] died, message: 'Grigoriy was shot by Pillager'
+[18Dec2024 02:44:31.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexandr'/13683, l='ServerLevel[world]', x=-3834.32, y=125.00, z=-22.45] died, message: 'Alexandr was shot by Pillager'
+[18Dec2024 02:45:01.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Fortuitous Militia]
+[18Dec2024 02:46:01.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marianna'/13685, l='ServerLevel[world]', x=-3824.41, y=127.00, z=6.14] died, message: 'Marianna was shot by Pillager'
+[18Dec2024 02:46:17.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [People Are Strange]
+[18Dec2024 02:51:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Book of Monsters]
+[18Dec2024 02:53:38.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigorij'/13684, l='ServerLevel[world]', x=-3827.27, y=126.00, z=-8.30] died, message: 'Grigorij was shot by Pillager'
+[18Dec2024 02:54:29.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3795, y=130, z=36} BlockPos{x=-3795, y=129, z=36}
