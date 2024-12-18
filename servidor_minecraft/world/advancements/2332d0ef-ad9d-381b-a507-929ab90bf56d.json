@@ -3476,6 +3476,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-18 05:08:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2024-12-18 03:48:27 +0000"
@@ -3863,6 +3869,12 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-18 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-18 05:08:02 +0000"
     },
     "done": true
   },
