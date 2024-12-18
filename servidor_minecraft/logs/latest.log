@@ -4083,3 +4083,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 02:08:25.828] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
 [18Dec2024 02:08:48.442] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
 [18Dec2024 02:08:48.443] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[18Dec2024 02:18:23.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
+[18Dec2024 02:18:23.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
+[18Dec2024 02:20:45.950] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Milanesas2718314[/127.1.30.232:47197] logged in with entity id 5672 at (-3998.699999988079, 63.0, -1171.4833349742917)
+[18Dec2024 02:20:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 joined the game
+[18Dec2024 02:20:45.977] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
+[18Dec2024 02:21:27.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
+[18Dec2024 02:21:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
+[18Dec2024 02:22:28.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Milanesas2718314[/127.1.30.232:35351] logged in with entity id 6256 at (-3947.2205866075747, 71.0, -1163.16957970278)
+[18Dec2024 02:22:28.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 joined the game
+[18Dec2024 02:22:28.849] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
+[18Dec2024 02:23:27.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Ashes 'n Bones]
