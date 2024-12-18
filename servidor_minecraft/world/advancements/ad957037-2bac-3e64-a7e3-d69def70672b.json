@@ -2974,6 +2974,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2024-12-18 04:05:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-18 03:33:04 +0000"
@@ -3418,6 +3424,14 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "willow_forest": "2024-12-18 04:03:58 +0000",
+      "rocky_meadow": "2024-12-18 04:05:22 +0000",
+      "lupine_plains": "2024-12-18 04:03:23 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 03:16:08 +0000"
@@ -3447,6 +3461,14 @@
       "has_planks": "2024-12-18 03:20:49 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "willow_forest": "2024-12-18 04:03:58 +0000",
+      "rocky_meadow": "2024-12-18 04:05:22 +0000",
+      "lupine_plains": "2024-12-18 04:03:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
@@ -3493,6 +3515,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 03:20:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2024-12-18 04:05:46 +0000"
     },
     "done": true
   },

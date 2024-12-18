@@ -3398,14 +3398,18 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
-      "rocky_meadow": "2024-12-18 02:10:51 +0000"
+      "willow_forest": "2024-12-18 04:03:29 +0000",
+      "rocky_meadow": "2024-12-18 02:10:51 +0000",
+      "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
-      "rocky_meadow": "2024-12-18 02:10:51 +0000"
+      "willow_forest": "2024-12-18 04:03:29 +0000",
+      "rocky_meadow": "2024-12-18 02:10:51 +0000",
+      "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
   },
