@@ -3774,5 +3774,17 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2024-12-18 05:53:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2024-12-18 05:53:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

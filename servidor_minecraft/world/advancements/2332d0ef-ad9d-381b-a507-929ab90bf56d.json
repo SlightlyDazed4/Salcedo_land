@@ -3423,6 +3423,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 03:30:21 +0000"
@@ -3432,6 +3438,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-18 05:17:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 06:04:46 +0000"
     },
     "done": true
   },
@@ -3579,6 +3591,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/coal_mine": {
     "criteria": {
       "has_mine": "2024-12-18 03:58:02 +0000"
@@ -3648,6 +3666,12 @@
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
     },
     "done": true
   },
@@ -3747,15 +3771,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 05:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-18 03:53:43 +0000"
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "mauve_log": "2024-12-18 06:04:46 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:parent": {
     "criteria": {
       "load_in_world": "2024-12-18 03:30:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2024-12-18 05:48:26 +0000"
     },
     "done": true
   },
@@ -3774,6 +3822,12 @@
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 03:53:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2024-12-18 06:04:46 +0000"
     },
     "done": true
   },
@@ -3876,6 +3930,12 @@
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2024-12-18 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 06:04:46 +0000"
     },
     "done": true
   },
@@ -4053,6 +4113,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_fence": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_boat": {
     "criteria": {
       "in_water": "2024-12-18 03:44:18 +0000"
@@ -4080,6 +4146,18 @@
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2024-12-18 06:04:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 05:47:27 +0000"
     },
     "done": true
   },
@@ -4162,6 +4240,24 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_slab": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_trapdoor": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-18 05:37:13 +0000"
@@ -4207,6 +4303,12 @@
   "securitycraft:recipes/building_blocks/quartz_mine": {
     "criteria": {
       "has_mine": "2024-12-18 03:58:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_fence_gate": {
+    "criteria": {
+      "has_mauve_planks": "2024-12-18 06:04:55 +0000"
     },
     "done": true
   },

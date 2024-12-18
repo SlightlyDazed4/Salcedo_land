@@ -8531,3 +8531,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 05:45:16.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 05:46:21.426] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-7264, y=-9, z=-287} at Chest with:minecraft:chests/simple_dungeon
 [18Dec2024 05:47:27.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has reached the goal [Bone Crusher]
+[18Dec2024 05:50:16.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:50:16.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:54:27.386] [Worker-Main-51/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-6607, y=-49, z=-235} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:54:27.955] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-6597, y=-37, z=-123} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:54:46.855] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-6526, y=10, z=-285} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:55:16.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:55:16.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:56:23.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/86013, l='ServerLevel[world]', x=-6669.50, y=98.00, z=35.51] died: Brog the Bulwark was slain by Loco_Supreme
+[18Dec2024 05:58:12.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has reached the goal [Strong or Careful]
+[18Dec2024 05:58:12.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was turned into KFC by Fire Dragon
+[18Dec2024 05:58:12.424] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loco_Supreme with unique ID travelersbackpack.gold_18.12.2024-05.58.12.dat
+[18Dec2024 05:58:12.424] [Server thread/DEBUG] [tombstone/]: A new grave of the player Loco_Supreme was created at position [x:-6652, y:97, z:126, dim:minecraft:overworld]
+[18Dec2024 05:58:12.433] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 05:58:56.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was incinerated by Fire Dragon
+[18Dec2024 05:58:56.072] [Server thread/DEBUG] [tombstone/]: A new grave of the player Loco_Supreme was created at position [x:-6651, y:101, z:142, dim:minecraft:overworld]
+[18Dec2024 05:58:56.081] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 05:59:42.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme burned to death
+[18Dec2024 05:59:42.326] [Server thread/DEBUG] [tombstone/]: A new grave of the player Loco_Supreme was created at position [x:-6707, y:99, z:79, dim:minecraft:overworld]
+[18Dec2024 05:59:42.327] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 06:00:16.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:00:16.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 06:00:33.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was turned into KFC by Fire Dragon
+[18Dec2024 06:00:33.921] [Server thread/DEBUG] [tombstone/]: A new grave of the player Loco_Supreme was created at position [x:-6839, y:101, z:104, dim:minecraft:overworld]
+[18Dec2024 06:00:33.928] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 06:05:16.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 06:05:16.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2809,6 +2809,12 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2024-12-18 05:48:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_shovel": {
     "criteria": {
       "has_the_recipe": "2024-12-18 05:00:44 +0000"

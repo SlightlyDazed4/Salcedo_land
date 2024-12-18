@@ -4480,3 +4480,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 05:35:26.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
 [18Dec2024 05:36:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [The Cutest Predator]
 [18Dec2024 05:47:27.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has reached the goal [Bone Crusher]
+[18Dec2024 05:56:23.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/86013, l='ServerLevel[world]', x=-6669.50, y=98.00, z=35.51] died: Brog the Bulwark was slain by Loco_Supreme
+[18Dec2024 05:58:12.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has reached the goal [Strong or Careful]
+[18Dec2024 05:58:12.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was turned into KFC by Fire Dragon
+[18Dec2024 05:58:12.424] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Loco_Supreme with unique ID travelersbackpack.gold_18.12.2024-05.58.12.dat
+[18Dec2024 05:58:12.433] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 05:58:56.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was incinerated by Fire Dragon
+[18Dec2024 05:58:56.081] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 05:59:42.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme burned to death
+[18Dec2024 05:59:42.327] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
+[18Dec2024 06:00:33.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme was turned into KFC by Fire Dragon
+[18Dec2024 06:00:33.928] [Server thread/INFO] [tombstone/]: The player Loco_Supreme has successfully been saved
