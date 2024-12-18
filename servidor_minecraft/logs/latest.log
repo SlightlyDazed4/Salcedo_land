@@ -4448,3 +4448,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 04:51:32.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kuzma'/38743, l='ServerLevel[world]', x=-6772.78, y=77.36, z=404.04] died, message: 'Kuzma blew up'
 [18Dec2024 04:51:32.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zoran'/38695, l='ServerLevel[world]', x=-6769.26, y=77.75, z=402.97] died, message: 'Zoran blew up'
 [18Dec2024 04:51:32.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sandra'/38719, l='ServerLevel[world]', x=-6778.74, y=73.00, z=405.74] died, message: 'Sandra went up in flames'
+[18Dec2024 04:58:11.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samaster560 has made the advancement [Acquire Hardware]
