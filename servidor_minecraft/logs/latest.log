@@ -269,3 +269,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 20:36:43.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has completed the challenge [Sniper Duel]
 [18Dec2024 20:40:18.172] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-6747, y=83, z=396}
 [18Dec2024 20:51:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [A Seedy Place]
+[18Dec2024 20:54:00.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed moved too quickly! -4.372279868117403,8.812501949381073,-2.0947251702222047
+[18Dec2024 20:56:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[18Dec2024 20:59:57.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
