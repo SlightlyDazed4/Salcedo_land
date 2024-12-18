@@ -4132,3 +4132,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 03:19:53.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has reached the goal [Bone Crusher]
 [18Dec2024 03:24:05.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has reached the goal [Fortuitous Militia]
 [18Dec2024 03:24:08.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Voluntary Exile]
+[18Dec2024 03:27:45.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pelgrim the Sharpshooter'/18644, l='ServerLevel[world]', x=-6606.57, y=67.00, z=1039.52] died: Pelgrim the Sharpshooter was slain by Slighttly_Dazed
+[18Dec2024 03:28:16.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed withered away
+[18Dec2024 03:28:16.889] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_18.12.2024-03.28.16.dat
+[18Dec2024 03:28:16.898] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
+[18Dec2024 03:28:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> QFUE
+[18Dec2024 03:28:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Ol' Betsy]
+[18Dec2024 03:28:53.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Take Aim]
+[18Dec2024 03:29:34.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/23968, l='ServerLevel[world]', x=-6605.56, y=68.00, z=983.80] died: Klaudius Bloodglare was shot by Slighttly_Dazed
+[18Dec2024 03:30:21.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loco_Supreme[/127.94.20.25:45877] logged in with entity id 24792 at (-2162.0520378694537, 156.5625, -1861.3747608058482)
+[18Dec2024 03:30:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme joined the game
+[18Dec2024 03:30:21.811] [Server thread/INFO] [Jade/]: Syncing config to Loco_Supreme (2332d0ef-ad9d-381b-a507-929ab90bf56d)
+[18Dec2024 03:30:28.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> OJO
+[18Dec2024 03:30:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> LOS TELEPORTO HACIA MI?
+[18Dec2024 03:30:48.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> tdvia
+[18Dec2024 03:31:42.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> ya vino el admin
+[18Dec2024 03:31:47.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Loco_Supreme> donde es el coito
+[18Dec2024 03:33:04.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [A Strange Grave Dust]

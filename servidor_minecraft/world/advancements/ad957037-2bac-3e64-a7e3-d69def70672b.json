@@ -147,11 +147,13 @@
       "chorus_fruit": "2024-12-17 05:41:45 +0000",
       "cooked_beef": "2024-12-17 21:56:47 +0000",
       "beef": "2024-12-17 05:10:31 +0000",
+      "baked_potato": "2024-12-18 03:31:22 +0000",
       "porkchop": "2024-12-17 20:57:26 +0000",
       "potato": "2024-12-16 20:02:03 +0000",
       "mutton": "2024-12-17 21:02:46 +0000",
       "bread": "2024-12-16 20:12:33 +0000",
       "rotten_flesh": "2024-12-17 03:36:42 +0000",
+      "salmon": "2024-12-18 03:30:58 +0000",
       "cooked_chicken": "2024-12-17 20:56:24 +0000",
       "cod": "2024-12-18 03:24:52 +0000",
       "carrot": "2024-12-16 20:02:06 +0000"
@@ -2972,9 +2974,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-18 03:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2024-12-18 03:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-18 03:28:53 +0000"
     },
     "done": true
   },
@@ -3050,6 +3076,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-18 03:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 03:23:04 +0000"
@@ -3059,6 +3091,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-18 03:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
     },
     "done": true
   },
@@ -3074,9 +3112,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-18 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
     },
     "done": true
   },
@@ -3089,6 +3139,18 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2024-12-18 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
     },
     "done": true
   },
@@ -3146,6 +3208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2024-12-18 03:22:14 +0000"
@@ -3179,6 +3247,18 @@
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 03:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
     },
     "done": true
   },
@@ -3221,6 +3301,12 @@
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 03:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
     },
     "done": true
   },
@@ -3347,6 +3433,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-18 03:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-18 03:31:52 +0000"
     },
     "done": true
   },
