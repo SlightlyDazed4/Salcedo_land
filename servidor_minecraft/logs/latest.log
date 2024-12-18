@@ -4094,3 +4094,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 02:22:28.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 joined the game
 [18Dec2024 02:22:28.849] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
 [18Dec2024 02:23:27.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Ashes 'n Bones]
+[18Dec2024 02:31:26.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3692, y=124, z=-262} BlockPos{x=-3692, y=122, z=-262}
