@@ -24,6 +24,7 @@
       "minecraft:cherry_grove": "2024-12-16 20:10:01 +0000",
       "minecraft:birch_forest": "2024-12-16 21:20:44 +0000",
       "minecraft:beach": "2024-12-17 14:58:28 +0000",
+      "minecraft:river": "2024-12-18 02:10:07 +0000",
       "minecraft:stony_shore": "2024-12-16 20:19:46 +0000",
       "minecraft:grove": "2024-12-16 22:28:56 +0000",
       "minecraft:cold_ocean": "2024-12-16 22:21:32 +0000",
@@ -34,6 +35,7 @@
       "minecraft:frozen_peaks": "2024-12-17 15:14:21 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-16 21:23:36 +0000",
       "minecraft:deep_dark": "2024-12-16 21:33:08 +0000",
+      "minecraft:meadow": "2024-12-18 02:08:16 +0000",
       "minecraft:savanna": "2024-12-16 19:58:35 +0000",
       "minecraft:plains": "2024-12-16 20:00:18 +0000"
     },
@@ -3171,6 +3173,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 02:00:00 +0000"
@@ -3189,9 +3203,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-18 02:00:37 +0000"
     },
     "done": true
   },
@@ -3219,9 +3257,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-18 02:00:37 +0000"
     },
     "done": true
   },
@@ -3237,9 +3299,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
     },
     "done": true
   },
@@ -3261,15 +3335,57 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 02:00:00 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-18 02:00:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 02:06:14 +0000"
     },
     "done": true
   },
