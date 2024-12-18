@@ -288,3 +288,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 21:37:31.652] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [plenty_of_golems:plenty_of_golems,playerrevive:main,creativecore:main,geckolib:main] rejected their client side version number
 [18Dec2024 21:37:31.653] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [18Dec2024 21:37:31.663] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d9ae8f9[id=<null>,name=fandelaArequi,properties={},legacy=false] (/127.122.95.117:53779) lost connection: Connection closed - mismatched mod channel list
+[18Dec2024 21:45:22.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fandelaArequi[/127.122.95.117:43581] logged in with entity id 14047 at (-2767.0472642916807, 62.073264324665075, -828.3808159897427)
+[18Dec2024 21:45:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi joined the game
+[18Dec2024 21:45:23.375] [Server thread/INFO] [Jade/]: Syncing config to fandelaArequi (526908b0-1810-34ef-9daf-0a3e7c005836)
+[18Dec2024 21:45:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Plenty of Golems]
+[18Dec2024 21:54:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Sea? Not a Problem]
+[18Dec2024 21:56:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Isn't It Iron Pick]
+[18Dec2024 22:08:57.164] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
+[18Dec2024 22:08:57.168] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
+[18Dec2024 22:09:09.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was slain by Sea Serpent
+[18Dec2024 22:09:09.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Your First Grave]
+[18Dec2024 22:09:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [The Most Useful Key]
+[18Dec2024 22:09:16.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Knowledge of Death]
+[18Dec2024 22:09:16.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has reached the goal [A Fast Comeback]
