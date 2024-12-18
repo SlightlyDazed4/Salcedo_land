@@ -285,3 +285,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [18Dec2024 21:19:20.383] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_18.12.2024-21.19.20.dat
 [18Dec2024 21:21:37.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Slighttly_Dazed lost connection: Disconnected
 [18Dec2024 21:21:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed left the game
+[18Dec2024 21:37:31.652] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [plenty_of_golems:plenty_of_golems,playerrevive:main,creativecore:main,geckolib:main] rejected their client side version number
+[18Dec2024 21:37:31.653] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[18Dec2024 21:37:31.663] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d9ae8f9[id=<null>,name=fandelaArequi,properties={},legacy=false] (/127.122.95.117:53779) lost connection: Connection closed - mismatched mod channel list
