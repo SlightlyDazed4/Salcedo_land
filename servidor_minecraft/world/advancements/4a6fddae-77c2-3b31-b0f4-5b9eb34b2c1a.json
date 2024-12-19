@@ -4070,6 +4070,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-19 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 02:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 02:13:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-19 01:25:39 +0000"
@@ -4118,9 +4136,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 02:13:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2024-12-19 00:26:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 02:13:49 +0000"
     },
     "done": true
   },

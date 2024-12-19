@@ -677,6 +677,7 @@
       "minecraft:creeper": "2024-12-18 20:36:51 +0000",
       "minecraft:husk": "2024-12-17 04:51:27 +0000",
       "minecraft:enderman": "2024-12-19 01:59:30 +0000",
+      "minecraft:stray": "2024-12-19 02:10:59 +0000",
       "minecraft:zombie": "2024-12-16 20:20:43 +0000"
     },
     "done": false
@@ -3515,6 +3516,7 @@
       "ochard": "2024-12-18 05:19:47 +0000",
       "flower_fields": "2024-12-18 05:19:31 +0000",
       "highland_fields": "2024-12-18 05:19:24 +0000",
+      "maple_forest": "2024-12-19 02:10:56 +0000",
       "magnolia_highlands": "2024-12-18 05:26:07 +0000",
       "mountains": "2024-12-18 05:25:39 +0000",
       "deciduous_forest": "2024-12-18 05:27:06 +0000",
@@ -3533,6 +3535,7 @@
       "ochard": "2024-12-18 05:19:47 +0000",
       "flower_fields": "2024-12-18 05:19:31 +0000",
       "highland_fields": "2024-12-18 05:19:24 +0000",
+      "maple_forest": "2024-12-19 02:10:56 +0000",
       "magnolia_highlands": "2024-12-18 05:26:07 +0000",
       "mountains": "2024-12-18 05:25:39 +0000",
       "deciduous_forest": "2024-12-18 05:27:06 +0000",
@@ -4270,6 +4273,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-19 02:22:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-19 01:37:48 +0000"
@@ -4297,6 +4306,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-19 01:34:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2024-12-19 02:22:27 +0000"
     },
     "done": true
   },
@@ -4348,6 +4363,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-19 02:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-19 01:53:58 +0000"
@@ -4375,6 +4396,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-19 01:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-19 02:20:18 +0000"
     },
     "done": true
   },
@@ -4498,6 +4525,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
+    "criteria": {
+      "has_maple_shrub": "2024-12-19 02:13:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/willow_wood": {
     "criteria": {
       "has_log": "2024-12-19 02:00:08 +0000"
@@ -4522,9 +4555,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 02:20:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-19 01:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 02:20:18 +0000"
     },
     "done": true
   },
