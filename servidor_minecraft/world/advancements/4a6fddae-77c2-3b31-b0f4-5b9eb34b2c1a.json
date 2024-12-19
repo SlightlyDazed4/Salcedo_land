@@ -3401,6 +3401,7 @@
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
+      "towering_cliffs": "2024-12-19 00:14:04 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -3410,6 +3411,7 @@
       "silver_birch_forest": "2024-12-18 02:33:28 +0000",
       "willow_forest": "2024-12-18 04:03:29 +0000",
       "rocky_meadow": "2024-12-18 02:10:51 +0000",
+      "towering_cliffs": "2024-12-19 00:14:04 +0000",
       "lupine_plains": "2024-12-18 04:02:46 +0000"
     },
     "done": false
@@ -3975,6 +3977,12 @@
   "plenty_of_golems:not_enough_golem_ad": {
     "criteria": {
       "not_enough_golem_ad_0": "2024-12-19 00:04:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-19 00:16:49 +0000"
     },
     "done": true
   },
