@@ -2085,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 01:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-19 01:10:17 +0000"
@@ -2109,6 +2115,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2024-12-19 01:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-19 01:10:17 +0000"
@@ -2118,6 +2130,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-19 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-19 01:21:21 +0000"
     },
     "done": true
   },
@@ -2133,9 +2151,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-19 01:21:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2024-12-19 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 01:28:09 +0000"
     },
     "done": true
   },
@@ -2145,9 +2175,29 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "rocky_meadow": "2024-12-19 01:27:08 +0000",
+      "towering_cliffs": "2024-12-19 01:24:48 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "rocky_meadow": "2024-12-19 01:27:08 +0000",
+      "towering_cliffs": "2024-12-19 01:24:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-19 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-19 01:21:21 +0000"
     },
     "done": true
   },
