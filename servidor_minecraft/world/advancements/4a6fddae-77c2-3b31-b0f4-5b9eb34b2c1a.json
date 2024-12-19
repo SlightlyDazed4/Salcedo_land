@@ -3974,6 +3974,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 00:26:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2024-12-19 00:26:05 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-12-19 00:26:05 +0000"
+    },
+    "done": true
+  },
   "plenty_of_golems:not_enough_golem_ad": {
     "criteria": {
       "not_enough_golem_ad_0": "2024-12-19 00:04:14 +0000"
@@ -3983,6 +4001,12 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2024-12-19 00:16:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 00:26:05 +0000"
     },
     "done": true
   },
