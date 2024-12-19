@@ -3999,3 +3999,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [19Dec2024 02:48:17.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Enchanter]
 [19Dec2024 02:48:34.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 02:48:34.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:50:18.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [We Need to Go Deeper]
+[19Dec2024 02:50:20.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
+[19Dec2024 02:50:20.698] [Worker-Main-58/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:blazeboss at BlockPos{x=-875, y=75, z=-31} at Chest with:minecraft:chests/nether_bridge
+[19Dec2024 02:50:35.051] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-689, y=82, z=-105} at Chest with:minecraft:chests/bastion_other
+[19Dec2024 02:53:38.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:53:38.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:54:21.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[19Dec2024 02:54:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
+[19Dec2024 02:56:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
+[19Dec2024 02:58:38.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:58:38.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:59:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> saben en q se aplica el encantamiento maldicion de los huesos?
+[19Dec2024 02:59:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ns segun google
+[19Dec2024 03:00:01.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> dice que da tipo un efecto negativo
+[19Dec2024 03:00:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> al que te ataca
+[19Dec2024 03:00:11.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
+[19Dec2024 03:02:36.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> pero se pone en armadura entonces?
+[19Dec2024 03:03:19.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Inga'/64278, l='ServerLevel[world]', x=-6721.16, y=81.00, z=391.91] died, message: 'Inga was slain by Wolf'
+[19Dec2024 03:03:38.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:03:38.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:08:38.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:08:38.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:10:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> q armadura tienes
+[19Dec2024 03:10:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
+[19Dec2024 03:10:07.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ?

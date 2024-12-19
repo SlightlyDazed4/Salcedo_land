@@ -353,6 +353,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 21:59:17 +0000",
       "minecraft:spider": "2024-12-19 01:12:07 +0000",
+      "minecraft:wither_skeleton": "2024-12-19 02:51:41 +0000",
       "minecraft:zombie": "2024-12-17 23:28:33 +0000"
     },
     "done": false
@@ -2285,6 +2286,13 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2024-12-19 02:50:21 +0000",
+      "blackstone_basin": "2024-12-19 02:50:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 02:34:43 +0000"
@@ -3030,6 +3038,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-19 02:50:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2024-12-19 01:31:01 +0000"
@@ -3324,6 +3338,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-19 02:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-19 01:43:02 +0000"
@@ -3335,7 +3355,9 @@
       "shrubland": "2024-12-19 02:03:31 +0000",
       "willow_forest": "2024-12-19 02:24:18 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
+      "mycotoxic_undergrowth": "2024-12-19 02:50:21 +0000",
       "maple_forest": "2024-12-19 02:44:08 +0000",
+      "blackstone_basin": "2024-12-19 02:50:56 +0000",
       "towering_cliffs": "2024-12-19 01:24:48 +0000",
       "temperate_grove": "2024-12-19 02:45:01 +0000"
     },
