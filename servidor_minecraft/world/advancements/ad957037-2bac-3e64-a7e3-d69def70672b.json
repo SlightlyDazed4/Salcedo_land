@@ -673,9 +673,12 @@
       "minecraft:blaze": "2024-12-19 03:27:23 +0000",
       "minecraft:skeleton": "2024-12-17 02:23:46 +0000",
       "minecraft:ravager": "2024-12-17 23:14:40 +0000",
+      "minecraft:ghast": "2024-12-19 04:07:53 +0000",
       "minecraft:hoglin": "2024-12-19 03:30:14 +0000",
       "minecraft:vindicator": "2024-12-17 22:18:43 +0000",
+      "minecraft:magma_cube": "2024-12-19 03:44:25 +0000",
       "minecraft:spider": "2024-12-17 02:26:18 +0000",
+      "minecraft:piglin_brute": "2024-12-19 03:46:44 +0000",
       "minecraft:creeper": "2024-12-18 20:36:51 +0000",
       "minecraft:zombified_piglin": "2024-12-19 03:04:12 +0000",
       "minecraft:wither_skeleton": "2024-12-19 03:23:00 +0000",
@@ -3516,6 +3519,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-12-18 05:19:08 +0000",
+      "redstone_abyss": "2024-12-19 04:00:32 +0000",
       "willow_forest": "2024-12-18 04:03:58 +0000",
       "rocky_meadow": "2024-12-18 04:05:22 +0000",
       "mycotoxic_undergrowth": "2024-12-19 03:20:18 +0000",
@@ -3526,6 +3530,7 @@
       "magnolia_highlands": "2024-12-18 05:26:07 +0000",
       "mountains": "2024-12-18 05:25:39 +0000",
       "deciduous_forest": "2024-12-18 05:27:06 +0000",
+      "glistering_meadow": "2024-12-19 04:00:24 +0000",
       "blackstone_basin": "2024-12-19 03:22:50 +0000",
       "towering_cliffs": "2024-12-18 04:45:47 +0000",
       "infernal_holt": "2024-12-19 03:30:10 +0000",
@@ -4623,13 +4628,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 03:43:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2024-12-19 03:20:18 +0000",
       "blackstone_basin": "2024-12-19 03:22:50 +0000",
-      "infernal_holt": "2024-12-19 03:30:10 +0000"
+      "infernal_holt": "2024-12-19 03:30:10 +0000",
+      "redstone_abyss": "2024-12-19 04:00:32 +0000",
+      "glistering_meadow": "2024-12-19 04:00:24 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 03:43:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 03:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-19 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-19 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -4637,9 +4710,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-19 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-19 03:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 03:43:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-19 03:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 03:43:24 +0000"
     },
     "done": true
   },
@@ -4661,6 +4764,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-19 03:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-19 03:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-19 03:34:57 +0000"
@@ -4670,6 +4785,24 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-19 03:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-19 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 03:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-19 03:44:11 +0000"
     },
     "done": true
   },
@@ -4685,9 +4818,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-19 03:53:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
     },
     "done": true
   },
@@ -4700,6 +4845,18 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 03:59:38 +0000"
     },
     "done": true
   },
@@ -4727,11 +4884,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 03:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-19 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2024-12-19 03:45:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 03:27:04 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-19 03:43:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_bioshroom_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-19 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2024-12-19 03:49:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
