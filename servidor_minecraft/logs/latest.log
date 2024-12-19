@@ -1,306 +1,283 @@
-[19Dec2024 00:04:14.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Milanesas2718314[/127.218.197.64:55117] logged in with entity id 623 at (-6795.699999988079, 80.0, 394.25217163919933)
-[19Dec2024 00:04:14.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 joined the game
-[19Dec2024 00:04:14.552] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
-[19Dec2024 00:04:14.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Plenty of Golems]
-[19Dec2024 00:04:16.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
-[19Dec2024 00:17:09.411] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Emica}[style={}] has been infected
-[19Dec2024 00:17:16.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emica'/1292, l='ServerLevel[world]', x=-6767.58, y=79.00, z=404.14] died, message: 'Emica was slain by Zombie'
-[19Dec2024 00:53:07.161] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Juro}[style={}] has been infected
-[19Dec2024 00:53:11.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Juro'/9874, l='ServerLevel[world]', x=-6741.35, y=81.00, z=423.00] died, message: 'Juro was slain by Zombie'
-[19Dec2024 00:53:11.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Juro'/9874, l='ServerLevel[world]', x=-6741.35, y=81.00, z=423.00] died: Juro was slain by Zombie
-[19Dec2024 01:02:04.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fandelaArequi[/127.122.95.117:41403] logged in with entity id 13056 at (-2559.6928164983947, 63.0, -1232.0720839226963)
-[19Dec2024 01:02:05.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi joined the game
-[19Dec2024 01:02:05.019] [Server thread/INFO] [Jade/]: Syncing config to fandelaArequi (526908b0-1810-34ef-9daf-0a3e7c005836)
-[19Dec2024 01:02:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Mysterious Gift]
-[19Dec2024 01:02:07.380] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/13269, l='ServerLevel[world]', x=-2750.60, y=62.56, z=-1138.99]
-[19Dec2024 01:03:16.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.2520187044492559
-[19Dec2024 01:03:16.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.6506970911211738
-[19Dec2024 01:03:16.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.0056883781876422
-[19Dec2024 01:03:16.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.4043796681196454
-[19Dec2024 01:03:16.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.6219845317373256
-[19Dec2024 01:03:16.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.0206907290087202
-[19Dec2024 01:03:16.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.2517402696885256
-[19Dec2024 01:03:16.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.6760537409688823
-[19Dec2024 01:05:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdxdxd
-[19Dec2024 01:05:46.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XD
-[19Dec2024 01:05:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> quien eres mno
-[19Dec2024 01:06:09.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tu peor pesadilla :v
-[19Dec2024 01:06:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> belen?
-[19Dec2024 01:07:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> -6777 339
-[19Dec2024 01:07:07.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> la tuquis house
-[19Dec2024 01:07:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> go
-[19Dec2024 01:07:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> voy hacer mi altar a la tuquis
-[19Dec2024 01:08:35.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> vengo en representacion de velayarce
-[19Dec2024 01:08:40.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> o que
-[19Dec2024 01:08:43.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:10:52.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pavo'/12099, l='ServerLevel[world]', x=-6740.86, y=79.00, z=384.14] died, message: 'Pavo was slain by Zombie'
-[19Dec2024 01:11:44.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [A Strange Grave Dust]
-[19Dec2024 01:12:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> q haces mno
-[19Dec2024 01:12:48.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> toy afk
-[19Dec2024 01:12:55.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> toy q leo un libro
-[19Dec2024 01:13:21.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> q lex chambee la cas
-[19Dec2024 01:13:54.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> yo toy q farmeo unos dragones acuaticos
-[19Dec2024 01:14:11.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ahi voy
-[19Dec2024 01:14:17.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> esos hipocampos?
-[19Dec2024 01:14:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> no otro tipo
-[19Dec2024 01:14:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> mrd
-[19Dec2024 01:15:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe encontre dos templos del mar
-[19Dec2024 01:15:28.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> en las dungeons hay oro de sobra
-[19Dec2024 01:16:08.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe la armadura de los dragones acuaticos es similar a la de diamante
-[19Dec2024 01:16:24.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> serio?
-[19Dec2024 01:16:31.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> segun las estats
-[19Dec2024 01:16:36.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> farmea pa todo
-[19Dec2024 01:17:33.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tambien da apnea
-[19Dec2024 01:17:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> nice
-[19Dec2024 01:18:44.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> a la mrd tas en san pincho :c
-[19Dec2024 01:19:21.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdxdxd
-[19Dec2024 01:19:27.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> o mano quien eres
-[19Dec2024 01:19:35.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> soy spiderman de la huaca bro
-[19Dec2024 01:19:58.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> o que
-[19Dec2024 01:20:16.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[19Dec2024 01:20:41.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe sirenas
-[19Dec2024 01:20:42.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10426ms or 208 ticks behind
-[19Dec2024 01:20:46.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tsmr
-[19Dec2024 01:20:55.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdxdxd
-[19Dec2024 01:21:19.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Tie me to the Mast]
-[19Dec2024 01:21:28.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> casi me kchan :c
-[19Dec2024 01:21:32.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:40283] logged in with entity id 25035 at (-6765.524079441276, 82.0, 345.3260538416195)
-[19Dec2024 01:21:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
-[19Dec2024 01:21:32.807] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
-[19Dec2024 01:21:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> cagaron
-[19Dec2024 01:21:56.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> voy a filtrar todo
-[19Dec2024 01:22:01.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[19Dec2024 01:22:19.627] [Server thread/WARN] [tombstone/]: The death event of the player fandelaArequi was canceled by another mod
-[19Dec2024 01:22:19.634] [Server thread/INFO] [tombstone/]: The player fandelaArequi has successfully been saved
-[19Dec2024 01:22:21.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ptmr
-[19Dec2024 01:22:30.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
-[19Dec2024 01:22:30.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi was slain by Sea Serpent
-[19Dec2024 01:22:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> XDXD
-[19Dec2024 01:22:43.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> maldito dragon :c
-[19Dec2024 01:24:31.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> HAZLE TP HASTA ACA
-[19Dec2024 01:24:47.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported 3 entities to Slighttly_Dazed]
-[19Dec2024 01:24:53.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> mrd
-[19Dec2024 01:25:04.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe toma
-[19Dec2024 01:25:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> un poco
-[19Dec2024 01:25:12.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> toma tukis toma?
-[19Dec2024 01:25:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xde
-[19Dec2024 01:25:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XD
-[19Dec2024 01:25:43.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> thanks
-[19Dec2024 01:25:44.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe q
-[19Dec2024 01:25:50.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> hazte un poco de armadura
-[19Dec2024 01:25:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> de cada tipo
-[19Dec2024 01:26:05.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> esto dan los hipocampos
-[19Dec2024 01:26:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> mira
-[19Dec2024 01:26:45.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> el otro que te di es cuando matas a otros dragones acuaticos
-[19Dec2024 01:27:28.619] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
-[19Dec2024 01:27:28.623] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:27:38.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed burned to death
-[19Dec2024 01:27:38.638] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_19.12.2024-01.27.38.dat
-[19Dec2024 01:27:38.643] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:27:40.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xsd
-[19Dec2024 01:27:40.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XDD
-[19Dec2024 01:28:55.316] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
-[19Dec2024 01:28:55.324] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:29:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Spider
-[19Dec2024 01:29:04.896] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_19.12.2024-01.29.04.dat
-[19Dec2024 01:29:12.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> otra vez :v xd
-[19Dec2024 01:31:09.464] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
-[19Dec2024 01:31:09.477] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:31:41.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Fire Dragon
-[19Dec2024 01:31:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe ontas
-[19Dec2024 01:31:52.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:32:12.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> pasen coord del dragon
-[19Dec2024 01:32:36.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> vamo
-[19Dec2024 01:33:03.374] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
-[19Dec2024 01:33:03.376] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:33:03.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> ontas lex
-[19Dec2024 01:33:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Ashes 'n Bones]
-[19Dec2024 01:33:13.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed burned to death
-[19Dec2024 01:33:13.375] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:33:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> e mio
-[19Dec2024 01:33:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Knowledge raises the soul]
-[19Dec2024 01:33:24.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdxdxd
-[19Dec2024 01:33:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> tu busca otro
-[19Dec2024 01:33:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ta que t kcha
-[19Dec2024 01:33:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:34:03.023] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
-[19Dec2024 01:34:03.039] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:34:09.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Milda'/32323, l='ServerLevel[world]', x=-6937.71, y=86.00, z=624.08] died: Milda burned to death
-[19Dec2024 01:34:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed went up in flames
-[19Dec2024 01:34:11.527] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:34:14.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XD
-[19Dec2024 01:34:18.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
-[19Dec2024 01:36:15.087] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
-[19Dec2024 01:36:15.109] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:36:24.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed burned to death
-[19Dec2024 01:36:24.930] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 01:36:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was slain by Fire Dragon
-[19Dec2024 01:36:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
-[19Dec2024 01:36:40.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> :v
-[19Dec2024 01:36:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Dragonslayer]
-[19Dec2024 01:37:02.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> ojo
-[19Dec2024 01:37:27.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> esos dragones estan en las minas o donde ?
-[19Dec2024 01:40:30.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Dragonslayer]
-[19Dec2024 01:40:36.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> go
-[19Dec2024 01:40:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> o q
-[19Dec2024 01:41:01.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe ya lo mate
-[19Dec2024 01:41:05.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ahora que se hace
-[19Dec2024 01:41:06.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:41:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> cn la mano vacia dale click
-[19Dec2024 01:41:26.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> va a empezar a soltar escams y mas cosa
-[19Dec2024 01:42:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> a la mrd un wb de oro
-[19Dec2024 01:42:57.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Suit Up]
-[19Dec2024 01:43:02.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Ice Bucket Challenge]
-[19Dec2024 01:47:00.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XD
-[19Dec2024 01:47:01.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe
-[19Dec2024 01:47:02.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
-[19Dec2024 01:47:07.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> hay un wb de oro
-[19Dec2024 01:47:14.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> al costado de tu casita
-[19Dec2024 01:47:19.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> aer
-[19Dec2024 01:47:22.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tmb un dragon
-[19Dec2024 01:47:23.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:47:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
-[19Dec2024 01:47:30.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> del como mato lex
-[19Dec2024 01:48:03.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdx
-[19Dec2024 01:48:12.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> me dio escamas
-[19Dec2024 01:48:13.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> onta
-[19Dec2024 01:48:18.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ya lo mate
-[19Dec2024 01:48:22.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> v:
-[19Dec2024 01:48:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> mita mita toma
-[19Dec2024 01:48:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> pa tus botitas
-[19Dec2024 01:48:40.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:48:49.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> es mejor de la que te di
-[19Dec2024 01:49:07.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe mira esto
-[19Dec2024 01:49:35.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe q
-[19Dec2024 01:49:42.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:49:44.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdxdxd
-[19Dec2024 01:49:54.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tienes mochila ?
-[19Dec2024 01:49:59.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> si
-[19Dec2024 01:50:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> me la dropeo un esqueleto
-[19Dec2024 01:50:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tienes arena xd ?
-[19Dec2024 01:50:27.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> nd
-[19Dec2024 01:50:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 01:50:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
-[19Dec2024 01:50:54.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XDDD
-[19Dec2024 01:50:55.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xd
-[19Dec2024 01:51:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> alamos wa seguir leyendo
-[19Dec2024 01:52:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> AFK
-[19Dec2024 02:00:24.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe lex q haces
-[19Dec2024 02:00:27.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 02:01:01.827] [Server thread/WARN] [tombstone/]: The death event of the player Slighttly_Dazed was canceled by another mod
-[19Dec2024 02:01:01.829] [Server thread/INFO] [tombstone/]: The player Slighttly_Dazed has successfully been saved
-[19Dec2024 02:01:27.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed was doomed to fall by Cyclops
-[19Dec2024 02:01:27.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Slighttly_Dazed with unique ID travelersbackpack.standard_19.12.2024-02.01.27.dat
-[19Dec2024 02:01:34.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XDD
-[19Dec2024 02:02:32.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
-[19Dec2024 02:04:10.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe
-[19Dec2024 02:04:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> miop
-[19Dec2024 02:04:16.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> e
-[19Dec2024 02:04:22.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Not Today, Thank You]
-[19Dec2024 02:04:24.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
-[19Dec2024 02:04:41.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> toy con dragon
-[19Dec2024 02:04:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [My Name is Nobody]
-[19Dec2024 02:05:06.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> vamo
-[19Dec2024 02:05:25.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eduard'/46474, l='ServerLevel[world]', x=-6434.70, y=78.00, z=113.69] died, message: 'Eduard was slain by Ghost'
-[19Dec2024 02:05:25.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eduard'/46474, l='ServerLevel[world]', x=-6434.70, y=78.00, z=113.69] died: Eduard was slain by Ghost
-[19Dec2024 02:06:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Who You Gonna Call?]
-[19Dec2024 02:06:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> 20 escamas
-[19Dec2024 02:06:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> a la mrd
-[19Dec2024 02:07:41.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Diamonds!]
-[19Dec2024 02:12:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> encontre otro dragon
-[19Dec2024 02:12:41.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> me dio 20 escamas
-[19Dec2024 02:12:44.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> pero de otro color
-[19Dec2024 02:12:46.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> APRENDE LEX
-[19Dec2024 02:13:09.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> mira
-[19Dec2024 02:13:13.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> me falta el peto
-[19Dec2024 02:13:23.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> pero segun las stats es mejor mi peto de ahora
-[19Dec2024 02:13:41.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> toma
-[19Dec2024 02:13:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> esto me sobro
-[19Dec2024 02:13:57.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> THANKS
-[19Dec2024 02:13:58.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> mi armadura bro :c
-[19Dec2024 02:14:04.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XD
-[19Dec2024 02:14:20.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe vamos por otro dragon p
-[19Dec2024 02:14:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> tas humillando al server entero mano
-[19Dec2024 02:14:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> me enseño rodiyarce
-[19Dec2024 02:15:22.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> *velayarce
-[19Dec2024 02:19:31.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Rotten to the Core]
-[19Dec2024 02:19:38.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Stay Out of my Peripheral!]
-[19Dec2024 02:19:38.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Best Friends Forever]
-[19Dec2024 02:19:45.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd ?
-[19Dec2024 02:20:18.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Ice Bucket Challenge]
-[19Dec2024 02:21:51.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe
-[19Dec2024 02:21:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> donde hago portal
-[19Dec2024 02:21:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 02:22:21.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe mira mi mascota
-[19Dec2024 02:22:25.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Chattering Teeth]
-[19Dec2024 02:22:27.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [R.I.P. Yondu]
-[19Dec2024 02:22:51.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe xd
-[19Dec2024 02:23:03.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> hay algo en el nether ?
-[19Dec2024 02:23:03.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> XD
-[19Dec2024 02:23:11.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> @LEX
-[19Dec2024 02:24:23.892] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:23.954] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:23.972] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.183] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.238] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.291] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.330] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.378] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.546] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.559] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.587] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.597] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.602] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.608] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.622] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.677] [Worker-Main-38/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.747] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.794] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.940] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.960] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.979] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.993] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:24.996] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[19Dec2024 02:24:27.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5248ms or 104 ticks behind
-[19Dec2024 02:24:27.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fandelaArequi moved too quickly! 5.903326188081337,0.2468000194787976,-8.270289413172463
-[19Dec2024 02:25:10.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> alamos wa cenar
-[19Dec2024 02:25:13.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Milanesas2718314 lost connection: Disconnected
-[19Dec2024 02:25:13.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 left the game
-[19Dec2024 02:28:52.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> estan en la casa?
-[19Dec2024 02:28:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> yo si
-[19Dec2024 02:29:56.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> pq ?
-[19Dec2024 02:30:18.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Teleported 2 entities to fandelaArequi]
-[19Dec2024 02:32:46.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loco_Supreme[/127.94.20.25:41369] logged in with entity id 61670 at (-6708.632858157691, 82.0, 401.2701218902314)
-[19Dec2024 02:32:46.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme joined the game
-[19Dec2024 02:32:46.891] [Server thread/INFO] [Jade/]: Syncing config to Loco_Supreme (2332d0ef-ad9d-381b-a507-929ab90bf56d)
-[19Dec2024 02:32:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme has made the advancement [Plenty of Golems]
-[19Dec2024 02:32:48.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe lex tienes arena
-[19Dec2024 02:33:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> no tienen lapiz lazuli?
-[19Dec2024 02:33:36.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ñofi no me he metido hasta ahora en una mina XD
-[19Dec2024 02:33:58.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loco_Supreme lost connection: Disconnected
-[19Dec2024 02:33:58.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loco_Supreme left the game
-[19Dec2024 02:38:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe lex
-[19Dec2024 02:38:37.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> don tas
-[19Dec2024 02:38:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> aldea
-[19Dec2024 02:38:51.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> toy buscando un bibliotecario
-[19Dec2024 02:40:20.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
-[19Dec2024 02:41:38.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> va
-[19Dec2024 02:41:45.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> voy a buscar dragones
-[19Dec2024 02:44:07.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lidija'/64349, l='ServerLevel[world]', x=-6718.87, y=82.00, z=403.60] died, message: 'Lidija was slain by Wolf'
-[19Dec2024 02:47:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> no encontre nd :c
-[19Dec2024 02:48:17.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [Enchanter]
-[19Dec2024 02:50:18.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [We Need to Go Deeper]
-[19Dec2024 02:50:20.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
-[19Dec2024 02:54:21.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
-[19Dec2024 02:54:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Creative Mode]
-[19Dec2024 02:56:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Slighttly_Dazed: Set own game mode to Survival Mode]
-[19Dec2024 02:59:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> saben en q se aplica el encantamiento maldicion de los huesos?
-[19Dec2024 02:59:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ns segun google
-[19Dec2024 03:00:01.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> dice que da tipo un efecto negativo
-[19Dec2024 03:00:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> al que te ataca
-[19Dec2024 03:00:11.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 03:02:36.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> pero se pone en armadura entonces?
-[19Dec2024 03:03:19.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Inga'/64278, l='ServerLevel[world]', x=-6721.16, y=81.00, z=391.91] died, message: 'Inga was slain by Wolf'
-[19Dec2024 03:10:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> q armadura tienes
-[19Dec2024 03:10:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
-[19Dec2024 03:10:07.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ?
+[19Dec2024 03:14:40.519] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[19Dec2024 03:14:40.526] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[19Dec2024 03:14:41.300] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Dec2024 03:14:41.356] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Tukis_Land/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[19Dec2024 03:14:41.682] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Tukis_Land/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 03:14:41.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Tukis_Land/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 03:14:41.686] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Tukis_Land/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 03:14:41.687] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Tukis_Land/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Dec2024 03:14:41.910] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[19Dec2024 03:14:44.056] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Dec2024 03:14:44.132] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[19Dec2024 03:14:45.879] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[19Dec2024 03:14:54.846] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[19Dec2024 03:14:55.602] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[19Dec2024 03:14:55.628] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[19Dec2024 03:14:56.401] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Dec2024 03:14:56.440] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[19Dec2024 03:14:56.462] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[19Dec2024 03:14:56.494] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[19Dec2024 03:14:56.496] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[19Dec2024 03:14:56.738] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[19Dec2024 03:14:56.739] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[19Dec2024 03:14:57.470] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@3109f8ae has been registered twice for the same name treechop:chop_wood.
+[19Dec2024 03:15:00.920] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[19Dec2024 03:15:00.950] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.950] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.951] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.951] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.952] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.952] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.952] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.953] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:00.955] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.956] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.956] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.956] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.957] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.957] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.957] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.958] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.958] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.960] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.960] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.960] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:00.961] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.965] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.966] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:00.966] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.967] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:00.967] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:00.968] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.968] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.968] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.969] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.969] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.971] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.975] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.976] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:00.978] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:01.261] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[19Dec2024 03:15:01.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[19Dec2024 03:15:01.982] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19Dec2024 03:15:01.982] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[19Dec2024 03:15:01.983] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[19Dec2024 03:15:01.984] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[19Dec2024 03:15:01.984] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[19Dec2024 03:15:02.088] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[19Dec2024 03:15:02.088] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[19Dec2024 03:15:02.088] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[19Dec2024 03:15:02.089] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[19Dec2024 03:15:02.108] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[19Dec2024 03:15:02.113] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[19Dec2024 03:15:02.142] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
+[19Dec2024 03:15:02.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19Dec2024 03:15:02.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[19Dec2024 03:15:02.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[19Dec2024 03:15:02.223] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[19Dec2024 03:15:02.237] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[19Dec2024 03:15:02.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.8.6
+[19Dec2024 03:15:02.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Starting version check at https://infernalstudios.org/api/mods/shieldexpansion/forge
+[19Dec2024 03:15:02.255] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[19Dec2024 03:15:02.264] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[19Dec2024 03:15:02.267] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[19Dec2024 03:15:02.270] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[19Dec2024 03:15:02.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [shieldexp] Found status: BETA Current: 1.1.7a Target: null
+[19Dec2024 03:15:02.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Dec2024 03:15:02.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[19Dec2024 03:15:06.155] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Dec2024 03:15:08.739] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Tukis_Land/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[19Dec2024 03:15:08.739] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Tukis_Land/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[19Dec2024 03:15:12.057] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe miningmaster:forging/paragon_shield
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'miningmaster:forging_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[19Dec2024 03:15:12.077] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe shieldexp:griefer_shield
+com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof_plating'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23164!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[19Dec2024 03:15:12.084] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[19Dec2024 03:15:12.337] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3623 advancements
+[19Dec2024 03:15:12.373] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[19Dec2024 03:15:12.374] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[19Dec2024 03:15:12.374] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[19Dec2024 03:15:12.374] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[19Dec2024 03:15:12.374] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[19Dec2024 03:15:12.375] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[19Dec2024 03:15:12.375] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[19Dec2024 03:15:12.375] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[19Dec2024 03:15:12.375] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[19Dec2024 03:15:12.375] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[19Dec2024 03:15:12.376] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[19Dec2024 03:15:12.376] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[19Dec2024 03:15:12.376] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[19Dec2024 03:15:12.376] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[19Dec2024 03:15:12.376] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[19Dec2024 03:15:12.377] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[19Dec2024 03:15:12.377] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[19Dec2024 03:15:12.377] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[19Dec2024 03:15:12.377] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[19Dec2024 03:15:12.377] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[19Dec2024 03:15:12.378] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[19Dec2024 03:15:12.378] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[19Dec2024 03:15:12.378] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[19Dec2024 03:15:12.378] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[19Dec2024 03:15:12.379] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[19Dec2024 03:15:12.379] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[19Dec2024 03:15:12.379] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[19Dec2024 03:15:12.379] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[19Dec2024 03:15:12.379] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[19Dec2024 03:15:12.380] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[19Dec2024 03:15:14.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[19Dec2024 03:15:14.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Dec2024 03:15:14.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Dec2024 03:15:14.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Dec2024 03:15:14.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Dec2024 03:15:14.759] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Dec2024 03:15:14.854] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Dec2024 03:15:14.854] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Dec2024 03:15:14.855] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Dec2024 03:15:14.856] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Dec2024 03:15:15.016] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19Dec2024 03:15:15.450] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19Dec2024 03:15:15.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Dec2024 03:15:16.875] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.876] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.878] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.879] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.880] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.882] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.883] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.883] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:16.886] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.886] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.887] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.889] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.889] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.890] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.891] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.891] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.893] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.894] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.895] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.896] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:16.896] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.899] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.900] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:16.901] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.902] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:16.902] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[19Dec2024 03:15:16.903] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.904] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.904] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.905] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.914] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.917] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.918] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.918] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.919] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.920] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:16.920] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[19Dec2024 03:15:17.084] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[19Dec2024 03:15:31.158] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[19Dec2024 03:15:31.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Dec2024 03:15:34.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:34.183] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:34.193] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:34.194] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:34.198] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:34.218] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:34.252] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:34.665] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:35.173] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:35.683] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:36.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Dec2024 03:15:36.662] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[19Dec2024 03:15:37.102] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5941 ms
+[19Dec2024 03:15:37.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.233s)! For help, type "help"
+[19Dec2024 03:15:37.148] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Dec2024 03:15:37.157] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[19Dec2024 03:15:37.157] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[19Dec2024 03:15:37.159] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[19Dec2024 03:16:29.816] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@707e9bb4[id=<null>,name=Slighttly_Dazed,properties={},legacy=false] (/127.225.50.35:33417) lost connection: Disconnected
+[19Dec2024 03:16:40.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Slighttly_Dazed[/127.225.50.35:54589] logged in with entity id 624 at (-6778.100755152174, 82.0, 338.0884703681524)
+[19Dec2024 03:16:40.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed joined the game
+[19Dec2024 03:16:40.224] [Server thread/INFO] [Jade/]: Syncing config to Slighttly_Dazed (ad957037-2bac-3e64-a7e3-d69def70672b)
+[19Dec2024 03:16:43.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[19Dec2024 03:19:20.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fandelaArequi[/127.122.95.117:35597] logged in with entity id 1304 at (-6776.881929356394, 81.0, 417.04531685425286)
+[19Dec2024 03:19:21.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi joined the game
+[19Dec2024 03:19:21.084] [Server thread/INFO] [Jade/]: Syncing config to fandelaArequi (526908b0-1810-34ef-9daf-0a3e7c005836)
+[19Dec2024 03:19:44.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> pipipipi,no estan mis perros
+[19Dec2024 03:20:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> q fue xd
+[19Dec2024 03:20:18.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Slighttly_Dazed has made the advancement [We Need to Go Deeper]
+[19Dec2024 03:20:41.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> oe pera
+[19Dec2024 03:20:44.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ahi voy
+[19Dec2024 03:20:46.086] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/1668, l='ServerLevel[world]', x=-6575.96, y=91.30, z=384.06]
+[19Dec2024 03:20:46.086] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/1669, l='ServerLevel[world]', x=-6575.96, y=91.31, z=387.85]
+[19Dec2024 03:21:24.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ya
+[19Dec2024 03:21:28.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> go
+[19Dec2024 03:21:47.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Slighttly_Dazed> ponte algo d oro
+[19Dec2024 03:21:53.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tienes oro
+[19Dec2024 03:21:54.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ?
+[19Dec2024 03:21:57.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> xd
+[19Dec2024 03:22:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> ya
+[19Dec2024 03:24:33.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> fortaleza
