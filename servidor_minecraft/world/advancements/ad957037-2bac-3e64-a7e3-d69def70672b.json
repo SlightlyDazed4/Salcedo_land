@@ -4285,6 +4285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 02:45:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-19 01:53:58 +0000"
@@ -4441,6 +4447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 02:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2024-12-19 01:35:09 +0000"
@@ -4486,6 +4498,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-19 01:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-19 02:48:17 +0000"
     },
     "done": true
   },
@@ -4558,6 +4576,18 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-19 02:20:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-19 02:40:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 02:45:07 +0000"
     },
     "done": true
   },

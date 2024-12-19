@@ -834,6 +834,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2024-12-19 01:18:09 +0000",
+      "cooked_beef": "2024-12-19 02:38:43 +0000",
       "baked_potato": "2024-12-18 21:53:09 +0000",
       "apple": "2024-12-19 01:30:31 +0000",
       "cooked_cod": "2024-12-18 22:21:13 +0000",
@@ -2338,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-19 02:43:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
     "criteria": {
       "has_dead_pine_shrub": "2024-12-19 01:39:53 +0000"
@@ -2383,6 +2390,12 @@
   "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2024-12-19 02:43:32 +0000"
     },
     "done": true
   },
@@ -2581,6 +2594,12 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-19 02:34:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-19 02:42:56 +0000"
     },
     "done": true
   },
@@ -2850,6 +2869,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "willow_log": "2024-12-19 02:43:40 +0000",
       "pine_log": "2024-12-19 01:42:32 +0000"
     },
     "done": false
@@ -3130,6 +3150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-19 02:43:22 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2024-12-19 01:12:08 +0000"
@@ -3178,6 +3204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 02:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-19 02:34:43 +0000"
@@ -3208,6 +3240,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2024-12-19 02:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-19 02:16:17 +0000"
@@ -3235,6 +3273,18 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 02:43:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 02:43:40 +0000"
     },
     "done": true
   },
@@ -3285,7 +3335,9 @@
       "shrubland": "2024-12-19 02:03:31 +0000",
       "willow_forest": "2024-12-19 02:24:18 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
-      "towering_cliffs": "2024-12-19 01:24:48 +0000"
+      "maple_forest": "2024-12-19 02:44:08 +0000",
+      "towering_cliffs": "2024-12-19 01:24:48 +0000",
+      "temperate_grove": "2024-12-19 02:45:01 +0000"
     },
     "done": false
   },
@@ -3336,7 +3388,9 @@
       "shrubland": "2024-12-19 02:03:31 +0000",
       "willow_forest": "2024-12-19 02:24:18 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
-      "towering_cliffs": "2024-12-19 01:24:48 +0000"
+      "maple_forest": "2024-12-19 02:44:08 +0000",
+      "towering_cliffs": "2024-12-19 01:24:48 +0000",
+      "temperate_grove": "2024-12-19 02:45:01 +0000"
     },
     "done": false
   },
