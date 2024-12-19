@@ -5,3 +5,28 @@
 [19Dec2024 00:04:16.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
 [19Dec2024 00:17:09.411] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Emica}[style={}] has been infected
 [19Dec2024 00:17:16.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emica'/1292, l='ServerLevel[world]', x=-6767.58, y=79.00, z=404.14] died, message: 'Emica was slain by Zombie'
+[19Dec2024 00:53:07.161] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Juro}[style={}] has been infected
+[19Dec2024 00:53:11.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Juro'/9874, l='ServerLevel[world]', x=-6741.35, y=81.00, z=423.00] died, message: 'Juro was slain by Zombie'
+[19Dec2024 00:53:11.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Juro'/9874, l='ServerLevel[world]', x=-6741.35, y=81.00, z=423.00] died: Juro was slain by Zombie
+[19Dec2024 01:02:04.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fandelaArequi[/127.122.95.117:41403] logged in with entity id 13056 at (-2559.6928164983947, 63.0, -1232.0720839226963)
+[19Dec2024 01:02:05.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi joined the game
+[19Dec2024 01:02:05.019] [Server thread/INFO] [Jade/]: Syncing config to fandelaArequi (526908b0-1810-34ef-9daf-0a3e7c005836)
+[19Dec2024 01:02:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fandelaArequi has made the advancement [Mysterious Gift]
+[19Dec2024 01:02:07.380] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/13269, l='ServerLevel[world]', x=-2750.60, y=62.56, z=-1138.99]
+[19Dec2024 01:03:16.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.2520187044492559
+[19Dec2024 01:03:16.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.6506970911211738
+[19Dec2024 01:03:16.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.0056883781876422
+[19Dec2024 01:03:16.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.4043796681196454
+[19Dec2024 01:03:16.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.6219845317373256
+[19Dec2024 01:03:16.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 1.0206907290087202
+[19Dec2024 01:03:16.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.2517402696885256
+[19Dec2024 01:03:16.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of fandelaArequi) moved wrongly! 0.6760537409688823
+[19Dec2024 01:05:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> xdxdxd
+[19Dec2024 01:05:46.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> XD
+[19Dec2024 01:05:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> quien eres mno
+[19Dec2024 01:06:09.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> tu peor pesadilla :v
+[19Dec2024 01:06:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> belen?
+[19Dec2024 01:07:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> -6777 339
+[19Dec2024 01:07:07.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Milanesas2718314> la tuquis house
+[19Dec2024 01:07:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> go
+[19Dec2024 01:07:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fandelaArequi> voy hacer mi altar a la tuquis
