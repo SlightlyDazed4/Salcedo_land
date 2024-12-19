@@ -670,12 +670,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 05:26:37 +0000",
+      "minecraft:blaze": "2024-12-19 03:27:23 +0000",
       "minecraft:skeleton": "2024-12-17 02:23:46 +0000",
       "minecraft:ravager": "2024-12-17 23:14:40 +0000",
+      "minecraft:hoglin": "2024-12-19 03:30:14 +0000",
       "minecraft:vindicator": "2024-12-17 22:18:43 +0000",
       "minecraft:spider": "2024-12-17 02:26:18 +0000",
       "minecraft:creeper": "2024-12-18 20:36:51 +0000",
       "minecraft:zombified_piglin": "2024-12-19 03:04:12 +0000",
+      "minecraft:wither_skeleton": "2024-12-19 03:23:00 +0000",
       "minecraft:husk": "2024-12-17 04:51:27 +0000",
       "minecraft:enderman": "2024-12-19 01:59:30 +0000",
       "minecraft:stray": "2024-12-19 02:10:59 +0000",
@@ -3522,7 +3525,9 @@
       "magnolia_highlands": "2024-12-18 05:26:07 +0000",
       "mountains": "2024-12-18 05:25:39 +0000",
       "deciduous_forest": "2024-12-18 05:27:06 +0000",
+      "blackstone_basin": "2024-12-19 03:22:50 +0000",
       "towering_cliffs": "2024-12-18 04:45:47 +0000",
+      "infernal_holt": "2024-12-19 03:30:10 +0000",
       "temperate_grove": "2024-12-18 05:18:59 +0000",
       "pine_slopes": "2024-12-18 05:19:43 +0000",
       "lupine_plains": "2024-12-18 04:03:23 +0000"
@@ -4619,9 +4624,35 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "mycotoxic_undergrowth": "2024-12-19 03:20:18 +0000"
+      "mycotoxic_undergrowth": "2024-12-19 03:20:18 +0000",
+      "blackstone_basin": "2024-12-19 03:22:50 +0000",
+      "infernal_holt": "2024-12-19 03:30:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-19 03:24:47 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -4629,9 +4660,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-19 03:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-19 03:27:04 +0000"
     },
     "done": true
   },
