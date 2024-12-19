@@ -3,3 +3,5 @@
 [19Dec2024 00:04:14.552] [Server thread/INFO] [Jade/]: Syncing config to Milanesas2718314 (4a6fddae-77c2-3b31-b0f4-5b9eb34b2c1a)
 [19Dec2024 00:04:14.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Milanesas2718314 has made the advancement [Plenty of Golems]
 [19Dec2024 00:04:16.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
+[19Dec2024 00:17:09.411] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Emica}[style={}] has been infected
+[19Dec2024 00:17:16.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emica'/1292, l='ServerLevel[world]', x=-6767.58, y=79.00, z=404.14] died, message: 'Emica was slain by Zombie'
