@@ -4016,9 +4016,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 01:48:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 01:48:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2024-12-19 01:25:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 01:48:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 01:48:33 +0000"
     },
     "done": true
   },
@@ -4049,6 +4073,12 @@
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-19 01:25:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2024-12-19 01:48:33 +0000"
     },
     "done": true
   },

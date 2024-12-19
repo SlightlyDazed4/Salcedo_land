@@ -2110,6 +2110,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 02:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 01:42:59 +0000"
@@ -2140,6 +2146,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 01:42:59 +0000"
@@ -2155,6 +2173,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 01:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
     },
     "done": true
   },
@@ -2194,6 +2218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
     "criteria": {
       "has_dead_pine_shrub": "2024-12-19 01:39:53 +0000"
@@ -2218,6 +2248,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-19 02:07:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-19 01:12:08 +0000"
@@ -2233,6 +2269,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-19 02:05:38 +0000"
     },
     "done": true
   },
@@ -2266,6 +2308,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-12-19 01:31:01 +0000"
@@ -2287,6 +2341,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
     },
     "done": true
   },
@@ -2338,6 +2398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_chestplate": {
     "criteria": {
       "has_item": "2024-12-19 01:41:33 +0000"
@@ -2365,6 +2431,12 @@
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-19 01:42:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2024-12-19 02:00:38 +0000"
     },
     "done": true
   },
@@ -2416,9 +2488,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-19 01:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
     },
     "done": true
   },
@@ -2443,6 +2527,12 @@
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-19 02:07:41 +0000"
     },
     "done": true
   },
@@ -2494,6 +2584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-19 01:21:21 +0000"
@@ -2530,6 +2626,12 @@
     },
     "done": true
   },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 01:42:59 +0000"
@@ -2554,6 +2656,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-19 02:06:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2024-12-19 01:21:19 +0000"
@@ -2563,6 +2671,18 @@
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 01:31:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 02:06:18 +0000"
     },
     "done": true
   },
@@ -2614,6 +2734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 01:31:01 +0000"
@@ -2646,6 +2772,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2024-12-19 02:03:31 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
       "towering_cliffs": "2024-12-19 01:24:48 +0000"
     },
@@ -2659,6 +2786,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2024-12-19 02:03:31 +0000",
       "rocky_meadow": "2024-12-19 01:27:08 +0000",
       "towering_cliffs": "2024-12-19 01:24:48 +0000"
     },
@@ -2682,6 +2810,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-19 02:07:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-19 01:21:21 +0000"
@@ -2700,6 +2834,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-19 02:06:01 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 01:42:59 +0000"
@@ -2715,6 +2855,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 01:42:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 02:06:18 +0000"
     },
     "done": true
   },
@@ -2742,6 +2888,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 02:06:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-19 01:33:07 +0000"
@@ -2751,6 +2903,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-19 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-19 02:07:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2024-12-19 02:03:59 +0000"
     },
     "done": true
   },
